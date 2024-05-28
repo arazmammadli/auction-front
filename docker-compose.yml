@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  user_front:
+    image: drmadwill/m_front
+    container_name: usr_front
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      NEXT_PUBLIC_API_URL: https://bidbazaar.site/api
+      NEXT_PUBLIC_NODE_ENV: Production
+      NEXT_PUBLIC_SOCKET_URL: https://bidbazaar.site/hubs/operation
+    ports:
+      - "80:3000"
+    restart: unless-stopped

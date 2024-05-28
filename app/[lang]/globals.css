@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .notification-item a {
+        color: blue !important;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .globalClass_f38a .button_bcc8 {
+        margin-bottom: 72px !important;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .ant-tabs-nav-wrap {
+        justify-content: flex-start !important;
+        padding: 0 12px !important;
+    }
+
+    .globalClass_f38a .button_bcc8 {
+        margin-bottom: 72px !important;
+    }
+};
+
+/* ant customize */
+
+.ant-modal-mask {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.ant-modal-content {
+    padding: 0px !important;
+    border-radius: 4px !important;
+}
+
+.ant-collapse .ant-collapse-item {
+    border: 1px solid #e4e7e9 !important;
+    border-radius: 4px !important;
+}
+
+.ant-collapse .ant-collapse-item-active {
+    border: 1px solid #e4e7e9 !important;
+    box-shadow: 0px 8px 40px 0px rgba(0, 0, 0, 0.12) !important;
+}
+
+.ant-collapse .ant-collapse-header {
+    padding: 20px 24px !important;
+    border-radius: 4px !important;
+}
+
+.ant-collapse .ant-collapse-item-active .ant-collapse-header {
+    padding: 20px 24px !important;
+    border-radius: 4px 4px 0px 0px !important;
+    background-color: #fa8232 !important;
+    color: white !important;
+}
+
+.ant-collapse .ant-collapse-content-box {
+    padding: 24px !important;
+}
+
+.ant-drawer-header-title .ant-drawer-close {
+    font-size: 0.875rem !important;
+    width: 1.875rem !important;
+    background-color: #e8e9ef !important;
+    color: #191c1f !important;
+    height: 1.875rem !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    order: 2 !important;
+}
+
+.ant-drawer-wrapper-body,
+.ant-drawer-content-wrapper {
+    width: 100% !important;
+}
+
+.ant-input-number-group-wrapper .ant-input-number-wrapper {
+    height: 100%;
+}
+
+.ant-input-number-input-wrap,
+.ant-input-number-input-wrap input {
+    height: 100%;
+}
+
+#image-preview .ant-image-mask:hover {
+    filter: none !important;
+    opacity: 0 !important;
+}
+
+.globalClass_f38a .button_bcc8 {
+    margin-right: 10px !important;
+}
+
+.active-max-offer .ant-table-cell {
+    background: radial-gradient(236.15% 138.52% at 0% 0%,#2DB224 0%,#57C150 100%) !important;
+}

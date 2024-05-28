@@ -1,0 +1,1014 @@
+{
+    "help-btn": "Yardım",
+    "login-btn": "Giriş yap",
+    "header": {
+        "nav": [
+            {
+                "id": 1,
+                "head": "Ana sayfa",
+                "path": "/"
+            },
+            {
+                "id": 2,
+                "head": "Hakkımızda",
+                "path": "/about"
+            },
+            {
+                "id": 3,
+                "head": "Arşiv",
+                "path": "/archive"
+            },
+            {
+                "id": 4,
+                "head": "Bloglar",
+                "path": "/blog"
+            },
+            {
+                "id": 5,
+                "head": "SSS",
+                "path": "/faq"
+            },
+            {
+                "id": 6,
+                "head": "Şartlar ve koşullar",
+                "path": "/rules"
+            },
+            {
+                "id": 7,
+                "head": "Gizlilik Politikası",
+                "path": "/privacy"
+            }
+        ],
+        "top_header": {
+            "menu": [
+                {
+                    "id": 1,
+                    "head": "Müzayede dükkanı",
+                    "path": "/auctionshop"
+                },
+                {
+                    "id": 2,
+                    "head": "Online alışveriş",
+                    "path": "/onlineshop"
+                },
+                {
+                    "id": 3,
+                    "head": "Marketplace",
+                    "path": "/marketplace"
+                },
+                {
+                    "id": 4,
+                    "head": "Halk dükkanı",
+                    "path": "/publicshop"
+                },
+                {
+                    "id": 5,
+                    "head": "Satıcılar",
+                    "path": "/sellers"
+                }
+            ],
+            "right_text": "Follow us"
+        },
+        "input_placeholder": "Herhangi bir şey arayın...",
+        "mobileMenu": [
+            {
+                "id": 1,
+                "head": "Ana sayfa",
+                "path": "/"
+            },
+            {
+                "id": 2,
+                "head": "Hakkımızda",
+                "path": "/about"
+            },
+            {
+                "id": 3,
+                "head": "Arşiv",
+                "path": "/archive"
+            },
+            {
+                "id": 4,
+                "head": "Bloglar",
+                "path": "/blog"
+            },
+            {
+                "id": 5,
+                "head": "SSS",
+                "path": "/faq"
+            },
+            {
+                "id": 6,
+                "head": "Şartlar ve koşullar",
+                "path": "/rules"
+            },
+            {
+                "id": 7,
+                "head": "Gizlilik Politikası",
+                "path": "/privacy"
+            },
+            {
+                "id": 8,
+                "head": "Müzayede dükkanı",
+                "path": "/auctionshop"
+            },
+            {
+                "id": 9,
+                "head": "Online alışveriş",
+                "path": "/onlineshop"
+            },
+            {
+                "id": 10,
+                "head": "Marketplace",
+                "path": "/marketplace"
+            },
+            {
+                "id": 11,
+                "head": "Halk dükkanı",
+                "path": "/publicshop"
+            },
+            {
+                "id": 12,
+                "head": "Satıcılar",
+                "path": "/sellers"
+            }
+        ]
+    },
+    "footer": {
+        "contact": {
+            "mybid_llc": "MYBID LLC TIN",
+            "contact_text": "İletişim",
+            "follow_us": "Bizi takip edin"
+        },
+        "footer_menu": [
+            {
+                "id": 1,
+                "head": "Geçişler",
+                "contents": [
+                    {
+                        "id": 1,
+                        "path": "/",
+                        "head": "Ana sayfa"
+                    },
+                    {
+                        "id": 2,
+                        "path": "/sign-in",
+                        "head": "Giriş yap"
+                    },
+                    {
+                        "id": 3,
+                        "path": "/contact",
+                        "head": "İletişim"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "head": "Bilgi",
+                "contents": [
+                    {
+                        "id": 1,
+                        "path": "/rules",
+                        "head": "Şartlar ve koşullar"
+                    },
+                    {
+                        "id": 2,
+                        "path": "/about",
+                        "head": "Hakkımızda"
+                    },
+                    {
+                        "id": 3,
+                        "path": "/faq",
+                        "head": "SSS"
+                    },
+                    {
+                        "id": 4,
+                        "path": "/privacy",
+                        "head": "Gizlilik Politikası"
+                    }
+                ]
+            }
+        ],
+        "app": {
+            "head": "Uygulamayı indirin"
+        },
+        "copyright": "© 2022 Mybid.az | Her hakkı saklıdır.",
+        "right_text": "Azerbaycan ürünü 🇦🇿"
+    },
+    "dashboard": {
+        "profileNavData": [
+            {
+                "id": 1,
+                "head": "Gösterge Paneli",
+                "path": "/user"
+            },
+            {
+                "id": 2,
+                "head": "Arşiv",
+                "path": "/user/archive"
+            },
+            {
+                "id": 3,
+                "head": "Siparişler",
+                "path": "/user/orders"
+            },
+            {
+                "id": 4,
+                "head": "Bildirimler",
+                "path": "/user/notifications"
+            },
+            {
+                "id": 5,
+                "head": "Kartlar ve Adres",
+                "path": "/user/cards"
+            },
+            {
+                "id": 6,
+                "head": "Ayarlar",
+                "path": "/user/setting"
+            }
+        ],
+        "logout_text": "Çıkış Yap",
+        "email_verified": {
+            "sub_head": "Beta",
+            "desc": "E-posta doğrulanmadı. Belirli işlemler için e-postanızı onaylamanız gerekir.",
+            "btn_text": "Gönder"
+        },
+        "order": {
+            "head": "Siparişler",
+            "columns": [
+                {
+                    "key": "1",
+                    "head": "Durum"
+                },
+                {
+                    "key": "2",
+                    "head": "Toplam ödeme"
+                },
+                {
+                    "key": "3",
+                    "head": "Bitiş tarihi"
+                },
+                {
+                    "key": "4",
+                    "head": "Ödeme"
+                }
+            ],
+            "load_more_btn": "Daha fazla"
+        },
+        "notifications": {
+            "head": "Bildirimler",
+            "columns": [
+                {
+                    "key": "1",
+                    "head": "İçerik"
+                },
+                {
+                    "key": "2",
+                    "head": "Tarix"
+                },
+                {
+                    "key": "3",
+                    "head": "Durum"
+                }
+            ],
+            "readed": "Okundu",
+            "notReaded": "Okunmadı"
+        },
+        "archive": {
+            "head": "Arşiv",
+            "columns": [
+                {
+                    "key": "1",
+                    "head": "Durum"
+                },
+                {
+                    "key": "2",
+                    "head": "Görüntü"
+                },
+                {
+                    "key": "3",
+                    "head": "İsim"
+                },
+                {
+                    "key": "4",
+                    "head": "Alış"
+                },
+                {
+                    "key": "5",
+                    "head": "Satış"
+                }
+            ]
+        },
+        "settings": {
+            "account": {
+                "account_head": "HESAP AYARLARI",
+                "display_name": "Ekran adı",
+                "account_email": "E-posta",
+                "account_phone": "Telefon numarası",
+                "save_btn": "Değişiklikleri Kaydet"
+            },
+            "change_password": {
+                "change_password_head": "ŞİFRE DEĞİŞTİR",
+                "current_password": "Mevcut Şifre",
+                "new_password": "Yeni Şifre",
+                "new_password_placheholder": "6+ karakter",
+                "confirm_password": "Şifreyi Onayla",
+                "btn_text": "Şifre değiştir"
+            }
+        },
+        "head": "Merhaba",
+        "info": "<p className='text-sm font-normal leading-5 text-[#475156]'>Hesap kontrol panelinizden. <span class='text-[#2DA5F3] font-medium'>Son Siparişlerinizi</span> kolayca kontrol edip görüntüleyebilir, <span class='text-[#2DA5F3] font-medium'>Gönderim ve Fatura Adreslerinizi</span> yönetebilir ve <span class='text-[#2DA5F3] font-medium'>Şifrenizi</span> ve <span class='text-[#2DA5F3] font-medium'>Hesap Ayrıntılarınızı</span> düzenleyebilirsiniz.</p>",
+        "account_info_head": "HESAP BİLGİSİ",
+        "account_info_btn": "Hesabı düzenlemek",
+        "account_info_email": "E-posta",
+        "account_info_phone": "Telefon",
+        "payment_option": {
+            "payment_option_head": "Ödeme seçeneği",
+            "add_payment_card": "Kart ekle",
+            "card_number_text": "Kart numarası",
+            "payment_confirm_btn": "Onaylamak",
+            "no_card_text": "Kart eklenmedi.",
+            "card_confirmed_status": "Onaylanmış",
+            "card_not_confirmed": "Onaylanmadı",
+            "card_delete_text": "Kartı Sil"
+        }
+    },
+    "about": {
+        "subhead": "BİZ KİMİZ",
+        "head": "MyBid - Azerbaycan'ın ilk çevrimiçi açık artırma platformu",
+        "description": "<p class='text-sm font-normal leading-6 text-[#475156]'>MYBID - Azerbaycan'ın ilk çok fonksiyonlu ve e-ticaret platformu olarak Ocak 2022'den beri faaliyet göstermektedir. Platform aynı zamanda birçok fonksiyonu bir araya getirerek çok işlevliliğe kavuşmuştur. Çok işlevlilik, çevrimiçi açık artırmayı, çevrimiçi mağazayı, pazar yerini ve sosyal mağazayı içerir. Kullanıcılar platforma katılarak açık artırma yoluyla alışveriş yapabilir ve ürün satın alabilirler. Aynı zamanda bireysel ve tüzel ticari kuruluşlar da ürünlerini kategoriye göre yerleştirmektedir. Buna paralel olarak mevcut bir ürünü istediğiniz zaman açık artırmaya dahil edebilirsiniz. Sistem elektronik ticaret (e-ticaret) şeklinde çalışmaktadır. Buradaki tüm süreçler ekosistemin bir parçasıdır. Seçilen ürünün siparişinden ödemeye kadar her detay sanal olarak düşünüldü. Müzayedede yer alan tüm ürünler MYBID'in özel mağazasına aittir.Kayıtlı her kişi, katılım ücretini ödeyerek herhangi bir ürüne istediği kadar teklif verebilir. En yüksek teklifi veren katılımcı kazanan olarak seçilir. Dürüstlük, hız ve kolaylık sağlanması koşuluyla ödemeler nakitsiz kabul edilir. Amacımız çok sayıda şirketi, bankayı, para iadesi şirketini ve hayır kurumlarını tek bir platformda birleştirmektir. MYBID, müşterilerine toptan fiyata ürün satın alma olanağı sağlarken aynı zamanda chasback ve bonus sistemiyle de kazandırmaktadır. MYBID olarak temel amacımız ülkemizde ve bölgemizde e-ticareti ve online müzayede kültürünü yaygınlaştırmaktır.</p>",
+        "teams": [
+            {
+                "id": 1,
+                "name": "Nofal Salahov",
+                "position": "Middle Backend Developer",
+                "img": "/assets/images/nofel.jpeg",
+                "linkedin": "drmadwill"
+            },
+            {
+                "id": 2,
+                "name": "Araz Memmedli",
+                "position": "Middle Frontend Developer",
+                "img": "/assets/images/araz.jpg",
+                "linkedin": "arazmemmedli"
+            }
+        ],
+        "our_team_head": "Çekirdek ekip üyemiz"
+    },
+    "features": [
+        {
+            "id": 1,
+            "head": "Hızlı Teslimat",
+            "desc": "24 saat içinde teslimat"
+        },
+        {
+            "id": 2,
+            "head": "24 Saat Dönüş",
+            "desc": "%100 para iade garantisi"
+        },
+        {
+            "id": 3,
+            "head": "Güvenli ödeme",
+            "desc": "Paranız güvende"
+        },
+        {
+            "id": 4,
+            "head": "7/24 Destek",
+            "desc": "Canlı iletişim/mesaj"
+        }
+    ],
+    "latest_news": {
+        "head": "Son Bloglar",
+        "btnTxt": "Tüm Bloglar"
+    },
+    "privacy_policy": {
+        "head": "GİZLİLİK POLİTİKASI",
+        "location": "Bakü şehri 15 Ocak 2023",
+        "desc": "Kişisel bilgilere uygulanan bu Gizlilik politikası (bundan sonra - gizlilik politikası), çevrimiçi açık artırma web sitesi programlarının ve ürünlerinin kullanımı sırasında “www.mybid.az” etki alanında bulunan “Mybid” çevrimiçi açık artırma kullanıcısı tarafından elde edilen tüm bilgiler için geçerlidir.",
+        "data": [
+            {
+                "id": 1,
+                "head": "TERİMLERİN TANIMI",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "1.1. Gizlilik politikasındaki terimler aşağıdaki anlamlara sahiptir:"
+                    },
+                    {
+                        "id": 2,
+                        "info": "1.1.1. 'Çevrimiçi açık artırma sitesinin yönetimi' (bundan sonra - sitenin yönetimi olarak anılacaktır) - siteyi yönetmeye, mybid adına hareket etmeye, kişisel bilgileri düzenlemeye veya işlemeye ve ayrıca kişisel bilgilerin işlenmesinin amacını belirlemeye yetkili çalışanlardır. işlenecek kişisel bilgilerin içeriği ve kişisel bilgiler üzerinden yapılacak işlemler."
+                    },
+                    {
+                        "id": 3,
+                        "info": "1.1.2. 'Kişisel bilgiler' - doğrudan veya dolaylı olarak belirli bir gerçek kişiye (kişisel bilgi konusu) ait olan herhangi bir bilgidir."
+                    },
+                    {
+                        "id": 4,
+                        "info": "1.1.3. 'Kişisel bilgilerin işlenmesi' - toplama, kaydetme, sistemleştirme, biriktirme, depolama, açıklama (güncelleme, değiştirme), çıkarma, kullanma, aktarma (dağıtma, sunma, tanıtma), de -Kişisel bilgilerle otomatik yollarla veya otomatik olmayan yollarla gerçekleştirilen kişisel bilgilerin kişiselleştirilmesi, bloke edilmesi, silinmesi, imha edilmesi."
+                    },
+                    {
+                        "id": 5,
+                        "info": "1.1.4. 'Kişisel bilgilerin gizliliği' - site yönetimine sunulan kişisel bilgilerin, bu bilgilerin sahibinin izni ve diğer yasal gerekçeler dışında dağıtılmasını önleme talebine uymak anlamına gelir."
+                    },
+                    {
+                        "id": 6,
+                        "info": "1.1.5. 'Online müzayede sitesinin kullanıcısı (bundan sonra - kullanıcı olarak anılacaktır)' – İnternet üzerinden online müzayede sitesine erişen ve bu siteyi kullanan kişidir."
+                    },
+                    {
+                        "id": 7,
+                        "info": "1.1.6. “Çerezler” – web sunucusu tarafından gönderilen ve kullanıcının bilgisayarında saklanan küçük bir bilgi parçasıdır; bir web tarayıcısı veya web istemcisi ilgili sitede bir sayfa açmaya çalıştığında, bu parçayı web sunucusuna bir şekilde gönderir. HTML isteği."
+                    },
+                    {
+                        "id": 8,
+                        "info": "1.1.7. 'IP adresi', IP protokolü tarafından düzenlenen bilgisayar ağı düğümünün benzersiz bir ağ adresidir."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "head": "GENEL HÜKÜMLER",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "2.1. Kullanıcı, çevrimiçi açık artırma sitesini kullanarak bu gizlilik politikasını ve kullanıcının kişisel bilgilerinin işlenmesi koşullarını kabul eder."
+                    },
+                    {
+                        "id": 2,
+                        "info": "2.2. Gizlilik politikası koşullarını kabul etmeyen kullanıcı, online açık artırma sitesini kullanmaktan vazgeçmelidir."
+                    },
+                    {
+                        "id": 3,
+                        "info": "2.3. Bu gizlilik politikası sadece mybid online müzayede sitesinde uygulanır. Online-auction, web sitesindeki Üçüncü şahıs sitelerine olan bağlantıları kontrol etmez ve bunlardan sorumlu değildir."
+                    },
+                    {
+                        "id": 4,
+                        "info": "2.4. Site yönetimi, çevrimiçi açık artırma sitesi kullanıcısı tarafından sağlanan kişisel bilgilerin doğruluğunu kontrol etmez."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "head": "GİZLİLİK POLİTİKASININ KONUSU",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "3.1. Bu gizlilik politikası, site yönetiminin talebi üzerine veya çevrimiçi açık artırma web sitesinde mal satın almak amacıyla sipariş verirken kullanıcı tarafından sağlanan kişisel bilgilerin gizliliğini ve korunmasını sağlamak için site yönetiminin yükümlülüklerini belirler."
+                    },
+                    {
+                        "id": 2,
+                        "info": "3.2. Bu gizlilik politikası kapsamında işlenmesine izin verilen kişisel bilgiler, kullanıcı tarafından çevrimiçi açık artırma web sitesindeki kayıt formunu doldururken verilir ve aşağıdakilerden oluşur:"
+                    },
+                    {
+                        "id": 3,
+                        "info": "3.2.1. Kullanıcının adı, soyadı, soyadı:"
+                    },
+                    {
+                        "id": 4,
+                        "info": "3.2.2. Kullanıcının telefon numarası:"
+                    },
+                    {
+                        "id": 5,
+                        "info": "3.2.3. E-posta adresi:"
+                    },
+                    {
+                        "id": 6,
+                        "info": "3.2.4. Malların teslim adresi;"
+                    },
+                    {
+                        "id": 7,
+                        "info": "3.2.5. Kullanıcının ikamet adresi:"
+                    },
+                    {
+                        "id": 8,
+                        "info": "3.3. Çevrimiçi müzayede, reklam bloklarının görüntülenmesi sürecinde ve sistemin istatistik komut dosyasına sahip sayfalara bağlantılar sırasında otomatik olarak iletilen verileri korur: · IP adresi; · çerezlerden alınan bilgiler; · tarayıcı (veya reklamı görüntüleyen diğer program) hakkında bilgi; · Giriş tarihi; · reklam bloğunun bulunduğu sayfanın adresi; · yönlendirici (önceki sayfanın adresi);"
+                    },
+                    {
+                        "id": 9,
+                        "info": "3.3.1. Çerezlerin devre dışı bırakılması, çevrimiçi açık artırma sitesinin kişisel tanımlama gerektiren bölümlerine erişimi imkansız hale getirebilir."
+                    },
+                    {
+                        "id": 10,
+                        "info": "3.3.2. Çevrimiçi açık artırma, ziyaretçilerin IP adresleri hakkında istatistiksel bilgiler toplar. Bu bilgiler, teknik sorunları ortadan kaldırmak, finansal ödemelerin yasallığını kontrol etmek için kullanılır."
+                    },
+                    {
+                        "id": 11,
+                        "info": "3.4. Yukarıdakilere ek olarak, herhangi bir kişisel bilgi (satın alma geçmişi, kullanılan tarayıcılar, işletim sistemleri vb.) güvenli bir şekilde korunur ve gizli tutulur (bu gizlilik politikasının 5.2 ve 5.3 numaralı maddelerinde tanımlananlar hariç)."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "head": "KULLANICININ KİŞİSEL BİLGİLERİNİN TOPLANMA AMACI",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "4.1. Çevrimiçi açık artırma sitesinin yönetimi, kullanıcının kişisel bilgilerini aşağıdaki amaçlarla kullanır:"
+                    },
+                    {
+                        "id": 2,
+                        "info": "4.1.1. Çevrimiçi açık artırma sitesine kaydolan, sipariş alan veya mallar için satın alma sözleşmesi akdeden kullanıcının kimliği için;"
+                    },
+                    {
+                        "id": 3,
+                        "info": "4.1.2. Kullanıcının çevrimiçi açık artırma sitesinin kaynaklarına erişimi için;"
+                    },
+                    {
+                        "id": 4,
+                        "info": "4.1.3. Kullanıcıyla geri bildirim oluşturmak ve ayrıca çevrimiçi açık artırma sitesiyle ilgili bilgi, istek ve hizmetler sağlamak için (kullanıcı isteklerinin ve siparişlerinin işlenmesi dahil)"
+                    },
+                    {
+                        "id": 5,
+                        "info": "4.1.4. Güvenliğin sağlanması ve dolandırıcılığın önlenmesi amacıyla kullanıcının konumunun belirlenmesi için;"
+                    },
+                    {
+                        "id": 6,
+                        "info": "4.1.6. Kullanıcı bir hesap numarası oluşturmaya izin veriyorsa, alışveriş için bir hesap oluşturmak için;"
+                    },
+                    {
+                        "id": 7,
+                        "info": "4.1.7. Çevrimiçi açık artırma sitesinin kullanıcısına siparişlerin durumu hakkında bilgi sağlamak için;"
+                    },
+                    {
+                        "id": 8,
+                        "info": "4.1.8. Ödemelerin alınması ve sınırlandırılması, vergilerin veya vergi işlemlerinin onaylanması, ödemeye itiraz, kullanıcının alacağının belirlenmesi için;"
+                    },
+                    {
+                        "id": 9,
+                        "info": "4.1.9. Çevrimiçi açık artırma kapsamı kullanımıyla ilgili zorluklar nedeniyle, verimli müşteri ve teknik sağlamak destek için;"
+                    },
+                    {
+                        "id": 10,
+                        "info": "4.1.10. Ürün indirimleri, özel teklifler, Fiyatlar, gönderme talimatları ve çevrimiçi açık arttırma veya ortakları tarafından kullanılan dağıtım ile ilgili diğer bilgiler hakkında bilgi için;"
+                    },
+                    {
+                        "id": 11,
+                        "info": "4.1.11. Kullanıcı iznine uygun olarak reklam çalıştırmayı kullanmak için;"
+                    },
+                    {
+                        "id": 12,
+                        "info": "4.1.12. Kullanıcılar çevrimiçi açık ortaklarının sitelerine ve hizmetlerine erişimlerini ve ürünlerini, hizmetleri ve yenilikleri hakkında bilgi almak için geliştirmek."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "head": "KİŞİSEL BİLGİLERİN İŞLENME YÖNTEMLERİ VE SÜRESİ",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "5.1. Kullanıcının kişisel bilgilerinin işlenmesi yasal olarak süresiz olarak gerçekleştirilir;"
+                    },
+                    {
+                        "id": 2,
+                        "info": "5.2. Kullanıcı, site yönetiminin, kendisine ait siparişleri yerine getirmek ve malın teslimini sağlamak amacıyla kişisel bilgilerini üçüncü kişilere (kurye servisi, posta ağı, iletişim operatörleri) aktarma hakkına sahip olduğunu kabul eder."
+                    },
+                    {
+                        "id": 3,
+                        "info": "5.3. Kullanıcının kişisel bilgileri, Azerbaycan Cumhuriyeti mevzuatına uygun olarak yetkili devlet makamlarına aktarılabilir."
+                    },
+                    {
+                        "id": 4,
+                        "info": "5.4. Kullanıcının kişisel bilgileri kaybolduğunda veya ifşa olduğunda site yönetimi bu konuda kullanıcıyı bilgilendirir."
+                    },
+                    {
+                        "id": 5,
+                        "info": "5.5. Kullanıcının kişisel bilgilerinin işlenmesi sırasında, site yönetimi, Üçüncü şahısların yasa dışı ifşasını, kazara imhasını, değiştirilmesini, bloke edilmesini, çoğaltılmasını, dağıtılmasını ve diğer yasa dışı eylemlerini önlemek için gerekli bazı organizasyonel ve teknik koruma önlemlerini alır."
+                    },
+                    {
+                        "id": 6,
+                        "info": "5.6. Site yönetimi, kullanıcı ile birlikte, kullanıcının kişisel bilgilerinin kaybolması veya ifşa edilmesi ile ilgili zarar ve diğer olumsuz etkileri önlemek için gerekli önlemleri alır."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "head": "TARAFLARIN YÜKÜMLÜLÜKLERİ",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "6.1. Kullanıcının yükümlülükleri:"
+                    },
+                    {
+                        "id": 2,
+                        "info": "6.1.1. Çevrimiçi açık artırma sitesini kullanmak için gereken kişisel bilgileri sağlamak;"
+                    },
+                    {
+                        "id": 3,
+                        "info": "6.1.2. Güncellemek, bilgi değişikliği durumunda eklemeler yapmak."
+                    },
+                    {
+                        "id": 4,
+                        "info": "6.2. Site yönetiminin yükümlülükleri"
+                    },
+                    {
+                        "id": 5,
+                        "info": "6.2.1. Elde edilen bilgileri sadece gizlilik politikasının 4. maddesinde belirtilen amaçlar için kullanmayı;"
+                    },
+                    {
+                        "id": 6,
+                        "info": "6.2.2. Özel bilgilerin gizliliğini korumak, kullanıcının yazılı izni olmaksızın ifşa etmemek, kullanıcıya ait kişisel bilgileri satmamak, değiştirmemek, yayınlamamak veya başka şekillerde dağıtmamak (Sözleşmenin 5.2 ve 5.3 numaralı maddeleri hariç) Gizlilik Politikası);"
+                    },
+                    {
+                        "id": 7,
+                        "info": "6.2.3. Kullanıcının kişisel bilgilerinin gizliliğini sağlamak için yürürlükteki kurallara uygun olarak olası önlemleri almak."
+                    },
+                    {
+                        "id": 8,
+                        "info": "6.2.4. Yanlış kişisel bilgi veya yasa dışı işlemler nedeniyle veya kullanıcı veya temsilcisinin talebi üzerine kullanıcının kişisel bilgilerinin yetkili merciler tarafından kontrol edilmesi durumunda kişisel bilgileri bloke etmek."
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "head": "TARAFLARIN SORUMLULUĞU",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "7.1. Görevlerini yerine getirmeyen site yönetimi Azerbaycan Cumhuriyeti mevzuatına uygun olarak (işbu gizlilik politikasının 5.2 ve 5.3 ve 7.2 numaralı maddeleri hariç) hukuka aykırı işlemler nedeniyle kullanıcının uğradığı zarardan sorumludur. kullanıcının kişisel bilgilerinin kullanılması."
+                    },
+                    {
+                        "id": 2,
+                        "info": "7.2. Aşağıdaki durumlarda gizli kişisel bilgilerin kaybolmasından veya ifşa edilmesinden yönetim sorumlu değildir:"
+                    },
+                    {
+                        "id": 3,
+                        "info": "7.2.1. Gizli kişisel bilgiler kaybolmadan veya ifşa edilmeden önce kamuya açık hale geldiyse;"
+                    },
+                    {
+                        "id": 4,
+                        "info": "7.2.2. Gizli kişisel bilgiler, site yönetimine verilmeden önce üçüncü kişiler tarafından elde edilmiş ise;"
+                    },
+                    {
+                        "id": 5,
+                        "info": "7.2.3. Gizli kişisel bilgiler kullanıcının rızasıyla ifşa edilirse."
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "head": "ANLAŞMAZLIKLARIN ÇÖZÜMÜ",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "8.1. Online müzayede sitesi kullanıcısı ile site yönetimi arasındaki uyuşmazlıklarda mahkemeye başvurmadan önce uyuşmazlığın karşılıklı anlayışla çözülmesi için yazılı teklif verilmesi gerekmektedir."
+                    },
+                    {
+                        "id": 2,
+                        "info": "8.2. Şikayetin alıcısı, şikayetin alınmasından itibaren 30 takvim günü içinde alınan önlemler hakkında şikayet sahibini yazılı olarak bilgilendirmek zorundadır."
+                    },
+                    {
+                        "id": 3,
+                        "info": "8.3. Aksi kararlaştırılmadıkça, anlaşmazlık Azerbaycan Cumhuriyeti mevzuatına göre mahkeme yoluyla çözülebilir."
+                    },
+                    {
+                        "id": 4,
+                        "info": "8.4. Bu gizlilik politikası ve kullanıcı ile site yönetimi arasındaki ilişkilerin düzenlenmesi Azerbaycan Cumhuriyeti mevzuatına tabidir."
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "head": "EK ŞARTLAR",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "9.1. Site yönetimi, kullanıcının onayı olmaksızın bu gizlilik politikasında değişiklik yapma yetkisine sahiptir."
+                    },
+                    {
+                        "id": 2,
+                        "info": "9.2. Yeni gizlilik politikası, çevrimiçi açık artırma web sitesinde yayınlandığı andan itibaren geçerlidir. (yeni baskıda aksi belirtilmedikçe)"
+                    },
+                    {
+                        "id": 3,
+                        "info": "9.3. Bu gizlilik politikasıyla bağlantılı tüm öneri ve sorular info@mybid.az adresine gönderilmelidir."
+                    },
+                    {
+                        "id": 4,
+                        "info": "9.4. Geçerli gizlilik politikası, çevrimiçi açık artırma sayfasında yayınlanmıştır: https://mybid.az/privacy"
+                    }
+                ]
+            }
+        ]
+    },
+    "terms_conditions": {
+        "head": "Şartlar ve koşullar",
+        "contents": [
+            "-Mybid.az web sitesi çevrim içi e-ticaret platformudur ve şartlar bölümünde Mybid olarak belirtilmektedir.",
+            "-Mybid E-ticaret platformunda açık arttırma ile satılan ürünlere lot denir.",
+            "-Müzayedeler Mybid tarafından yapılmaktadır.",
+            "-Müzayedede kura abonelik ücreti Mybid tarafından belirlenir.",
+            "-Lotların (ürünlerin) başlangıç ve bitiş tarihi Mybid tarafından ayarlanır.",
+            "-Müzayede başlamadan önce kura koşulları, yarışma detayları ve ürüne ait detaylı bilgiler katılımcılar için kayıt altına alınarak katılımcılara duyurulacaktır.",
+            "-Mybid.az'a kayıt olan bir kişi, katılım ücreti ödeyerek (kısıtlama olmaksızın) herhangi bir çekilişe katılabilir.",
+            "-Mybid.az'daki tüm ödemeler gayri nakdi olarak yapılır.",
+            "-Mybid.az web sitesinde hiçbir koşulda nakit ödeme yapılamaz.",
+            "-Lot abonelik ücreti hiçbir koşulda iade edilmez.",
+            "-Yapılan bahislerin ücreti iade edilmez.",
+            "-Katılımcı, müzayede sona erdiğinde teklife göre ödeme yaptıktan sonra kazanan olarak kabul edilir.",
+            "-Müzayede sona erdikten sonra, katılımcı ödeme emrini belirtilen süre içinde yerine getirmezse, katılımcı kaybetmiş sayılır ve müzayede bitmiş sayılır. (banka tarafından konulan limitler ve diğer durumlar dahil)",
+            "-Müzayede bitiminden sonra, katılımcı ödeme emrini belirtilen süre içinde yerine getirmezse ve bu 3 defa olursa bu kişinin hesabı mybid.az tarafından bloke edilir ve katılımcı canlı müzayedelere katılmışsa, teklif verme hakkından mahrum kalır. (abonelik ücreti iade edilmez)",
+            "-Lotların başlangıç ve bitiş tarihlerinin uzatılması istisnai durumlarda mümkündür (mücbir sebep kuralları dahilinde, teknik problemlerin ortaya çıkması durumunda),Kura başlangıç ve bitiş tarihi kayıt altına alındığında 10 (on) katılımcı veya 5 (beş) istekli olmadığı sürece bu kura en geç 7 güne kadar uzatılabilir.",
+            "-Eğer kura müzayedede yer almamışsa abonelik ücreti katılımcıya iade edilir ve lot reddedilir. (7 iş günü içinde banka tarafından ödenen banka kartı hesaplarına)",
+            "-Müzayedenin reddi, müzayede bitiminden 6 (altı) saat öncesine kadar koşul ve şartlar dahilinde reddedilebilir.",
+            "-Müzayedede lotu kazanan kişi katılmayı reddedemez ve teklif değişmez.",
+            "-Açık artırmayı kazanan kişi, kazandığı ürünü 7 gün içinde, teklif tutarının %15'i komisyonla (abonelik ücreti hariç) teslim aldığı şekliyle iade edebilir. (kullanılmadı)",
+            "-Mybid.az'da hesap oluştururken:",
+            "-Adı ve soyadı katılımcıya ait olacaktır.",
+            "-Email ve cep telefonu numarası aktif olacaktır",
+            "-Belirlenen şifre gizli tutulacaktır, aksi takdirde Mybid.az sorumlu değildir.",
+            "-Mybid.az üzerinde şartlar ve şartlar bölümüne uygun olarak kabul ve onaylanarak hesap oluşturulacaktır.",
+            "-Mybid.az platformunda kart bilgilerini ekleyen kişi verilerden sorumludur.",
+            "-Mybid.az platformundaki kişisel hesapta belirtilen kartla ilgili bir şikayet alındığında Mybid.az'daki hesap bloke edilecektir.",
+            "-Mybid.az platformunun koşullar ve koşullar bölümünü okumayan ve Mybid.az platformunun koşul ve koşullarını kayıtsız şartsız kabul eden katılımcılar sorumluluktan kurtulmaz.",
+            "-Mybid.az'da hesap oluştururken kayıt olan her kişi şartlara ve şartlara uymak zorundadır."
+        ]
+    },
+    "faq": {
+        "head": "Sıkça Sorulan Sorular",
+        "contents": [
+            {
+                "key": "1",
+                "label": "“Mybid.az” nedir?",
+                "children": "Mybid, çok ücretli, çok işlevli bir e-ticaret platformudur."
+            },
+            {
+                "key": "2",
+                "label": "Müzayedeye nasıl katılınır?",
+                "children": "Sadece Mybid.az'a kaydolun ve kart bilgilerinizi ekleyin Herhangi bir açık artırmaya katılabilirsiniz. Not: Katılım bedeli iade edilmez ve teklifiniz hiçbir şekilde değiştirilemez."
+            },
+            {
+                "key": "3",
+                "label": "Müzayede nasıl yapılır?",
+                "children": "Mybid.az'daki müzayedeler online bir platform üzerinden yapılıyor (resim)."
+            },
+            {
+                "key": "4",
+                "label": "Birden fazla müzayedeye katılmak mümkün mü?",
+                "children": "Evet, tüm müzayedelere katılabilir ve teklif verebilirsiniz."
+            },
+            {
+                "key": "5",
+                "label": "Müzayedeler ne zaman başlar?",
+                "children": "Müzayedelerin başlangıç ve bitiş tarihleri Mybid.az tarafından belirlenir."
+            },
+            {
+                "key": "6",
+                "label": "Kazanan nasıl belirlenir?",
+                "children": "Kazanan, müzayede bitmeden en yüksek teklifi veren kişidir."
+            },
+            {
+                "key": "7",
+                "label": "Bir müzayedeye katıldığımda para kaybeder miyim?",
+                "children": "Hayır."
+            },
+            {
+                "key": "8",
+                "label": "Kart bilgilerim ve hesabım korunuyor mu?",
+                "children": "Evet, kart korumalıdır ve Eponint LLC ve Payriff QSC ile işlem yapılabilir."
+            },
+            {
+                "key": "9",
+                "label": "Ne zaman Teklif verebilirim?",
+                "children": "Müzayede bitimine 1 dakika kalaya kadar teklifinizi verebilirsiniz."
+            },
+            {
+                "key": "10",
+                "label": "Müzayedeye ne zaman katılabilirim?",
+                "children": "Müzayede bitiminden 1 dakika öncesine kadar herhangi bir zamanda."
+            },
+            {
+                "key": "11",
+                "label": "Müzayede nedir?",
+                "children": "En kârlı alıcı lehine mülkün, malların, eşyaların halka açık satışı, yani açık artırma yoluyla satış, bir ürünün fiyatını açıkça artırma yöntemidir."
+            }
+        ]
+    },
+    "email_confirm":{
+        "head":"Tebrikler!",
+        "content":"E-posta adresiniz başarıyla doğrulandı. Bizi sosyal medyada takip ederek en güncel haberlerden haberdar olabilirsiniz.",
+        "back_btn_txt":"Geri Git",
+        "home_btn_txt":"Ana sayfaya git"
+    },
+    "news_letter": {
+        "head": "Haber bültenimize abone ol",
+        "overview":"Sayfamızdaki yeniliklerden haberdar olmak için e-posta adresinizi giriniz.",
+        "input_placeholder": "E-posta adresi",
+        "btn_text": "Abone"
+    },
+    "blog": {
+        "category_filter_head": "Kategori",
+        "latest_blog_head": "En Son Blog",
+        "blog_search_placeholder": "Aramak...",
+        "no_blog_txt":"Şu anda blog yazısı yok, lütfen daha sonra tekrar kontrol edin."
+    },
+    "message": {
+        "head": "Yardıma mı ihtiyacınız var?",
+        "desc": "Bizimle sohbet etmek için birini seçin"
+    },
+    "auction": {
+        "auction_join_btn": "Katıl",
+        "auction_offer_btn": "Arttır",
+        "auction_detail": {
+            "start_date_txt": "Başlangıç ​​tarihi",
+            "end_date_txt": "Bitiş tarihi",
+            "starting_price_txt": "Başlangıç fiyatı",
+            "joining_fee": "Katılma fiyatı",
+            "live_connection_fee": "Canlı katılma fiyatı",
+            "minimum_bid_txt": "Minimum teklif",
+            "maximum_offer_txt": "Maksimum teklif",
+            "last_offer_txt": "Son teklif",
+            "secure_payment_txt": "%100 güvenli ödeme",
+            "participants_txt": "Katılımcılar",
+            "description_txt": "Tanım",
+            "participants_columns": [
+                {
+                    "title": "Ad Soyad",
+                    "dataIndex": "name",
+                    "key": "name"
+                },
+                {
+                    "title": "Teklif",
+                    "dataIndex": "offer",
+                    "key": "offer"
+                },
+                {
+                    "title": "Tarih",
+                    "dataIndex": "date",
+                    "key": "date"
+                }
+            ],
+            "auction_discount_txt":"İndirim"
+        },
+        "auction_winner_txt": "Kazanan",
+        "pay_container": {
+            "head": "Ödeme metodları",
+            "add_card_txt": "Kart ekle",
+            "one_time_payment": "Tek seferlik ödeme",
+            "no_card_txt": "Kart eklenmedi.",
+            "switch_to_cards":"Kartlara git"
+        },
+        "auction_confirm_head": "Açık artırmaya katılmak istediğinizden emin misiniz?",
+        "auction_confirm_desc": "Katılım ücreti hiçbir durumda iade edilmez.",
+        "auction_bid_warning": "Açık artırmada verilen tekliflerde değişiklik yapılmaz.",
+        "auction_confirm_yes_btn": "Evet",
+        "auction_confirm_no_btn": "Hayır",
+        "day_txt": "gün",
+        "hour_txt": "saat",
+        "minute_txt": "dakika",
+        "second_txt": "saniye",
+        "auction_live_txt": "Canlı",
+        "auction_soon_txt": "Yakında",
+        "auction_sold_txt": "Satılmış",
+        "auction_free_txt":"Ücretsiz"
+    },
+    "not_found":{
+        "head":"404 Sayfa Bulunamadı",
+        "content":"Aradığınız sayfa yeniden adlandırılabilir, silinebilir veya geçici olarak kısıtlanabilir. Daha detaylı bilgi için destek hattına yazabilirsiniz."
+    },
+    "partners": {
+        "head":"Bizim Ortaklarımız",
+        "desc":"Güvenilir ve saygın ortaklarımız var"
+    },
+    "coming_soon_head":"Çok Yakında",
+    "auction_archive_head": "Müzayede Arşivi",
+    "auctions-text": "Müzayedeler",
+    "mobile_search_head": "Açık artırmaları arayın.",
+    "mobile_search_overview":"Lütfen aramak istediğiniz kelimeyi yazın ve 'enter' tuşuna basın",
+    "live-text": "Canlı",
+    "soon-text": "Yakında",
+    "end-text": "Bitmiş",
+    "start-date-text": "Başlama tarihi",
+    "end-date-text": "Bitme tarihi",
+    "start-price-text": "Başlangıc fiyatı",
+    "join-price-text": "Katılım ücreti",
+    "live-join-price-text": "Online katılım ücreti",
+    "last-bid-text": "Sonuncu teklif",
+    "join-users-text": "Üyeler",
+    "blogs-text": "Bloglar",
+    "partners-text": "Ortaklar",
+    "auction-archive-text": "Müzayede arşivi",
+    "rules-text": "Şartlar ve Koşullar",
+    "faq-text": "Sıkça sorulan sorular",
+    "about-us-text": "Hakkımızda",
+    "privacy-text": "Gizlilik politikası",
+    "footer-text": "Tüm hakları saklıdır.",
+    "footer-transition": "Geçişler",
+    "footer-about": "Bilgi",
+    "footer-contact": "İletisim",
+    "logout-text": "Çıkış yap",
+    "mobile-profile-text": "Profil",
+    "mobile-order-text": "Siparişler",
+    "notifications-text": "Bildirimler",
+    "notifications-empty-text": "Bildirim almadınız",
+    "phone-text": "Telefon",
+    "password-text": "Şifre",
+    "dont-have-account-text": "Hesabınız yok mu?",
+    "forgot-password-text": "Parolanızı mı unuttunuz?",
+    "register-text": "Kayıt ol",
+    "register-name-text": "İsim Soyisim",
+    "repeat-password-text": "Şifreyi tekrar girin",
+    "email-text": "E-posta",
+    "have-account": "Hesabım var",
+    "register-rules": "Şartlar ve koşulları",
+    "register-agree-text": "okudum ve kabul ediyorum",
+    "reset-password-text": "Şifre sıfırlama",
+    "reset-send-btn": "Gönder",
+    "user-information-text": "Kullanıcı bilgilerim",
+    "edit-btn": "Düzenle",
+    "wallet-text": "Kart bilgilerim",
+    "wallet-add-card": "Kart ekle",
+    "password-editing": "Şifre düzenleme",
+    "old-password-text": "Eski Şifre",
+    "new-password-text": "Yeni Şifre",
+    "repeat-new-password-text": "Yeni Şifreyi Tekrar Girin",
+    "payments-text": "Ödemeler",
+    "status-text": "Durum",
+    "total-payment-text": "Toplam ödeme",
+    "payment-text": "Ödeme",
+    "archive-text": "Arşiv",
+    "archive-photo": "Fotoğraf",
+    "archive-name": "İsim",
+    "archive-date": "Tarih",
+    "archive-price": "Fiyat",
+    "confirm-btn": "Onayla",
+    "notification-text": "Bildirimler",
+    "notification-joinauction": "Açık artırmaya katıl!",
+    "join-btn": "Katıl",
+    "offer-btn": "Teklif",
+    "back-btn": "Geri",
+    "auction-offer-text": "Teklif vermek istediğinizden emin misiniz? (Katılım ücreti iade edilmiyor.)",
+    "error-text": "Hata",
+    "popup-error-message": "Teklifiniz başlangıç ​​fiyatından düşük olamaz.",
+    "popup-offer-error": "Teklifiniz son tekliften daha yüksek olmalıdır.",
+    "day-text": "gün",
+    "hour-text": "saat",
+    "minute-text": "dakika",
+    "second-text": "saniye",
+    "onetime-payment-text": "Tek seferlik ödeme",
+    "payment-method-text": "Katılmak için bir ödeme yöntemi seçin",
+    "choose-product": "Beğendiğiniz ürünü seçin",
+    "info-register": "Üye olun",
+    "pay-fee-text": "Katılım ücretini ödeyin",
+    "bid-win-text": "Teklif ver ve kazan!",
+    "page-notfound": "Sayfa bulunamadı!",
+    "page-notfound-text": "Aradığınız sayfayı bulamadık...",
+    "mainpage-text": "Ana sayfa",
+    "error-description": "Tüm alanları doldurun",
+    "success-text": "Başarılı",
+    "info-changed": "Bilgiler değiştirildi.",
+    "duedate-text": "Son ödeme tarihi",
+    "error-detail-text": "Başarısız ödeme",
+    "success-detail-text": "Ödeme başarıyla tamamlandı.",
+    "error-occured": "Bir hata oluştu.",
+    "newpasswords-same": "Yeni şifreler aynı olmalıdır.",
+    "password-changed": "Şifre değiştirildi.",
+    "password-incorrect": "Eski şifre doğru değil.",
+    "attention-text": "Dikkat",
+    "login-successful": "Giriş başarılı.",
+    "incorrect-user-password": "Kullanıcı adı veya şifre yanlış.",
+    "passwords-same": "Şifreler aynı olmalıdır.",
+    "phone-email-use": "Telefon veya e-posta zaten kullanımda",
+    "registration-successful": "Kayıt başarılı.",
+    "confirmation-message": "E-postanıza bir onay bağlantısı gönderildi. Gelen kutunuzda göremiyorsanız spam klasörünüzü kontrol edin.",
+    "email-notverified": "E-posta doğrulanmadı. Belirli işlemler için e-postanızı onaylamanız gerekir.",
+    "noinfo-found": "Bilgi bulunamadı",
+    "want-tobid": "Teklif vermek istediğinizden emin misiniz? (Katılım ücreti iade edilmez.)",
+    "more": "Daha çok",
+    "less": "Daha az",
+    "incorrect-number": "Yanlış numara",
+    "incorrect-code": "Yanlış kod",
+    "vertification-successful": "Başarılı doğrulama.",
+    "must-wait-text": "Belirli bir süre beklemeniz gerekiyor.",
+    "newcode-sent": "Yeni kod gönderildi.",
+    "phone-vertification": "Telefon doğrulaması",
+    "code-vertification": "Doğrulama kodu",
+    "enter-recieved-code": "Telefona gelen kodu girin",
+    "send-again": "Tekrar gönderin",
+    "follow-rules": "Güvenlik kurallarına uyun!",
+    "nouser-found": "Kullanıcı bulunamadı",
+    "link-sent-phone": "Telefonunuza bir bağlantı gönderildi.",
+    "link-sent-email": "Bağlantı e-postanıza gönderildi.",
+    "terms-accept": "Kayıt olmak için şartlar ve koşullar kabul edilmelidir.",
+    "reset-btn": "Yenile",
+    "email-verified": "E-posta doğrulandı.",
+    "participate-auction": "E-postanız başarıyla doğrulandı. Müzayedelere katılabilirsiniz.",
+    "goto-auction-btn": "Müzayedelere geç",
+    "email-not-verified-text": "E-posta doğrulanmadı!",
+    "new-confirmation-link": "E-posta doğrulaması başarısız oldu. Lütfen yeni bir onay bağlantısı gönderin.",
+    "process-ongoing": "Süreç devam ediyor.",
+    "checking-email-confirmation": "E-posta onayı kontrol ediliyor...",
+    "card-number": "Kart numarası",
+    "valid-text": "Geçerli",
+    "expiry-text": "Son kullanma tarihi",
+    "offer-text": "Teklif yapıldı.",
+    "auction-notstarted": "Açık artırma henüz başlamadı.",
+    "sameoffer-notrepeat": "Aynı teklif tekrar edilemez.",
+    "auction-ended": "Açık artırma sona erdi.",
+    "notjoined-auction": "Müzayedeye katılmadınız.",
+    "successfully-logout": "Başarıyla çıkış yaptınız.",
+    "confirmation-sentsuc": "Onay başarıyla gönderildi.",
+    "close-btn": "Kapat",
+    "soon": "Yakında",
+    "join-free": "Ücretsiz",
+    "winner": "Kazanan"
+}

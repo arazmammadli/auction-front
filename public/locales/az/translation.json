@@ -1,0 +1,1015 @@
+{
+    "help-btn": "Kömək",
+    "login-btn": "Daxil ol",
+    "header": {
+        "nav": [
+            {
+                "id": 1,
+                "head": "Ana səhifə",
+                "path": "/"
+            },
+            {
+                "id": 2,
+                "head": "Haqqımızda",
+                "path": "/about"
+            },
+            {
+                "id": 3,
+                "head": "Arxiv",
+                "path": "/archive"
+            },
+            {
+                "id": 4,
+                "head": "Bloqlar",
+                "path": "/blog"
+            },
+            {
+                "id": 5,
+                "head": "Faq",
+                "path": "/faq"
+            },
+            {
+                "id": 6,
+                "head": "Şərtlər və qaydalar",
+                "path": "/rules"
+            },
+            {
+                "id": 7,
+                "head": "Məxfilik siyasəti",
+                "path": "/privacy"
+            }
+        ],
+        "top_header": {
+            "menu": [
+                {
+                    "id": 1,
+                    "head": "Hərrac mağazası",
+                    "path": "/auctionshop"
+                },
+                {
+                    "id": 2,
+                    "head": "Onlayn mağaza",
+                    "path": "/onlineshop"
+                },
+                {
+                    "id": 3,
+                    "head": "Marketplace",
+                    "path": "/marketplace"
+                },
+                {
+                    "id": 4,
+                    "head": "Ictimai mağaza",
+                    "path": "/publicshop"
+                },
+                {
+                    "id": 5,
+                    "head": "Satıcılar",
+                    "path": "/sellers"
+                }
+            ],
+            "right_text": "Bizi izlə"
+        },
+        "input_placeholder": "Nəyisə axtarın...",
+        "mobileMenu": [
+            {
+                "id": 1,
+                "path": "/",
+                "head": "Ana səhifə"
+            },
+            {
+                "id": 2,
+                "path": "/Haqqımızda",
+                "head": "Haqqımızda"
+            },
+            {
+                "id": 3,
+                "head": "Arxiv",
+                "path": "/archive"
+            },
+            {
+                "id": 4,
+                "path": "/Bloqlar",
+                "head": "Bloq"
+            },
+            {
+                "id": 5,
+                "path": "/faq",
+                "head": "FAQ"
+            },
+            {
+                "id": 6,
+                "head": "Şərtlər və qaydalar",
+                "path": "/rules"
+            },
+            {
+                "id": 7,
+                "path": "/privacy",
+                "head": "Məxfilik siyasəti"
+            },
+            {
+                "id": 8,
+                "path": "/marketplace",
+                "head": "Marketplace"
+            },
+            {
+                "id": 9,
+                "path": "/auction-shop",
+                "head": "Hərrac mağazası"
+            },
+            {
+                "id": 10,
+                "path": "/online-shop",
+                "head": "Onlayn mağaza"
+            },
+            {
+                "id": 11,
+                "path": "/public-shop",
+                "head": "Ictimai mağaza"
+            },
+            {
+                "id": 12,
+                "path": "/sellers",
+                "head": "Satıcılar"
+            }
+        ]
+    },
+    "footer": {
+        "contact": {
+            "mybid_llc": "MYBİD MMC VÖEN",
+            "contact_text": "Əlaqə",
+            "follow_us": "Bizi izlə"
+        },
+        "footer_menu": [
+            {
+                "id": 1,
+                "head": "Keçidlər",
+                "contents": [
+                    {
+                        "id": 1,
+                        "head": "Ana səhifə",
+                        "path": "/"
+                    },
+                    {
+                        "id": 2,
+                        "head": "Daxil ol",
+                        "path": "/sign-in"
+                    },
+                    {
+                        "id": 3,
+                        "head": "Əlaqə",
+                        "path": "/contact"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "head": "Məlumat",
+                "contents": [
+                    {
+                        "id": 1,
+                        "head": "Şərtlər və Qaydalar",
+                        "path": "/rules"
+                    },
+                    {
+                        "id": 2,
+                        "head": "Haqqımızda",
+                        "path": "/about"
+                    },
+                    {
+                        "id": 3,
+                        "head": "Faq",
+                        "path": "/faq"
+                    },
+                    {
+                        "id": 4,
+                        "head": "Məxfilik siyasəti",
+                        "path": "/privacy"
+                    }
+                ]
+            }
+        ],
+        "app": {
+            "head": "Tətbiqi yükləyin"
+        },
+        "copyright": "© 2022 Mybid.az | Bütün hüquqlar qorunur.",
+        "right_text": "Azərbaycan məhsulu 🇦🇿"
+    },
+    "dashboard": {
+        "profileNavData": [
+            {
+                "id": 1,
+                "head": "İdarə paneli",
+                "path": "/user"
+            },
+            {
+                "id": 2,
+                "head": "Arxiv",
+                "path": "/user/archive"
+            },
+            {
+                "id": 3,
+                "head": "Sifarişlər",
+                "path": "/user/orders"
+            },
+            {
+                "id": 4,
+                "head": "Bildirişlər",
+                "path": "/user/notifications"
+            },
+            {
+                "id": 5,
+                "head": "Kartlar və Ünvan",
+                "path": "/user/cards"
+            },
+            {
+                "id": 6,
+                "head": "Parametr",
+                "path": "/user/setting"
+            }
+        ],
+        "logout_text": "Çıxış",
+        "email_verified": {
+            "sub_head": "Beta",
+            "desc": "Sizin emailiniz təsdiqlənməyib. Müəyyən əməliyyatlar üçün e-poçtunuzu təsdiqləməlisiniz.",
+            "btn_text": "Göndər"
+        },
+        "order": {
+            "head": "Sifarişlər",
+            "columns": [
+                {
+                    "key": "1",
+                    "head": "Vəziyyət"
+                },
+                {
+                    "key": "2",
+                    "head": "Ümumi ödəniş"
+                },
+                {
+                    "key": "3",
+                    "head": "Bitiş tarixi"
+                },
+                {
+                    "key": "4",
+                    "head": "Ödəniş"
+                }
+            ],
+            "load_more_btn": "Daha çox"
+        },
+        "archive": {
+            "head": "Arxiv",
+            "columns": [
+                {
+                    "key": "1",
+                    "head": "Vəziyyət"
+                },
+                {
+                    "key": "2",
+                    "head": "Şəkil"
+                },
+                {
+                    "key": "3",
+                    "head": "Ad"
+                },
+                {
+                    "key": "4",
+                    "head": "Alış"
+                },
+                {
+                    "key": "5",
+                    "head": "Satış"
+                }
+            ]
+        },
+        "notifications": {
+            "head": "Bildirişlər",
+            "columns": [
+                {
+                    "key": "1",
+                    "head": "Məzmun"
+                },
+                {
+                    "key": "2",
+                    "head": "Tarix"
+                },
+                {
+                    "key": "3",
+                    "head": "Status"
+                }
+            ],
+            "readed": "Oxundu",
+            "notReaded": "Oxunmayıb"
+        },
+        "settings": {
+            "account": {
+                "account_head": "HESAB TƏNZİMLƏMƏLƏRİ",
+                "display_name": "Göstərilən ad",
+                "account_email": "E-poçt",
+                "account_phone": "Telefon nömrəsi",
+                "save_btn": "Yadda saxla"
+            },
+            "change_password": {
+                "change_password_head": "PAROLU DƏYİŞDİRİN",
+                "current_password": "Hazırkı şifrə",
+                "new_password": "Yeni Şifrə",
+                "new_password_placheholder": "6+ simvol",
+                "confirm_password": "Şifrəni təsdiqləyin",
+                "btn_text": "Parolun dəyişdirilməsi"
+            }
+        },
+        "head": "Salam",
+        "info": "<p className='text-sm font-normal leading-5 text-[#475156]'>Hesabınızın idarə panelindən siz asanlıqla <span class='text-[#2DA5F3] font-medium'>Son Sifarişlərinizi</span> yoxlaya və baxa, <span class='text-[#2DA5F3] font-medium'>Göndərmə və Faktura Ünvanlarınızı</span> idarə edə və <span class='text-[#2DA5F3] font-medium'>Parol</span> və <span class='text-[#2DA5F3] font-medium'>Hesab Təfərrüatlarınızı</span> redaktə edə bilərsiniz.</p>",
+        "account_info_head": "HESAB MƏLUMATI",
+        "account_info_btn": "Hesabı redaktə edin",
+        "account_info_email": "E-poçt",
+        "account_info_phone": "Telefon",
+        "payment_option": {
+            "payment_option_head": "Ödəniş Seçimi",
+            "add_payment_card": "Kart əlavə edin",
+            "card_number_text": "KARTI NÖMRƏSİ",
+            "payment_confirm_btn": "Təsdiqlə",
+            "no_card_text": "Kart əlavə edilməyib.",
+            "card_confirmed_status": "Təsdiqləndi",
+            "card_not_confirmed": "Təsdiqlənmədi",
+            "card_delete_text": "Kartı Sil"
+        }
+    },
+    "about": {
+        "subhead": "BİZ KİMİK",
+        "head": "MyBid - Azərbaycanın ilk onlayn hərrac platforması",
+        "description": "<p class='text-sm font-normal leading-6 text-[#475156]'>MYBİD – 2022 ci ilin yanvar ayından etibarən, Azərbaycanda ilk multifunksional və e commerce platforma olaraq fəalliyətə başlayıb. Platforma eyni zamanda bir çox funksiyanı özündə birləşdirərək, multifunksionallıq əldə etmişdir. Multifunksionallığa online hərrac, online mağaza, marketplace və sosial mağaza daxildir. İstifadəçilər platformaya qoşularaq həm alış-veriş edə, həm də hərrac yolu ilə məhsul əldə edə, eyni zamanda fərdi və hüquqi sahibkarlıq subyektləri məhsullarını kateqoriyaya uyğun olaraq yerləşdirə, paralel olaraq da mövcud məhsulu istənilən zaman hərraca daxil edə bilərlər. Sistem elektron kommersiya ( e- commerce ) olaraq fəaliyyət göstərir. Burada olan bütün proseslər eko-sistemin bir parçasıdır. Seçilən məhsulun sifarişindən ödənişinə qədər hər bir detal virtual olaraq düşünülüb. Hərracda olan bütün məhsullar MyBid- in xüsusi mağazasına məxsusdur. Qeydiyyatdan keçən hər bir şəxs, istənilən məhsul üçün qoşulma haqqını ödəyərək istənilən qədər təklif verə bilər. Ən çox təklif verən iştirakçı qalib olaraq seçilir. Ödənişlər dürüstlük, sürət və rahatlığı təmin etmək şərtilə nağdsız olaraq qəbul edilir. Hədəfimiz, bir sıra şirkətlərin, bankların, cashback kompaniyalarının və xeyriyyə cəmiyyətlərini tək bir platformada birləşdirməkdir. MyBid, müştərilərini nəyinki topdan satış qiyməti ilə məhsulları satın almalarını təmin edir, eyni zamanda chasback və bonus sistemi ilə onları qazandırır. Bizim MyBid olaraq əsas məqsədimiz ölkəmizdə və regionda e-commerce və online hərrac mədəniyyətini təbliğ etməkdir.</p>",
+        "our_team_head": "Komandamızın əsas üzvü",
+        "teams": [
+            {
+                "id": 1,
+                "name": "Nofəl Salahov",
+                "position": "Middle Backend Developer",
+                "img": "/assets/images/nofel.jpeg",
+                "linkedin": "drmadwill"
+            },
+            {
+                "id": 2,
+                "name": "Araz Məmmədli",
+                "position": "Middle Frontend Developer",
+                "img": "/assets/images/araz.jpg",
+                "linkedin": "arazmemmedli"
+            }
+        ]
+    },
+    "features": [
+        {
+            "id": 1,
+            "head": "Sürətli Çatdırılma",
+            "desc": "Çatdırılma 24/saat"
+        },
+        {
+            "id": 2,
+            "head": "24 Saat Dönüş",
+            "desc": "100% pul geri zəmanət"
+        },
+        {
+            "id": 3,
+            "head": "Təhlükəsiz Ödəniş",
+            "desc": "Pulunuz təhlükəsizdir"
+        },
+        {
+            "id": 4,
+            "head": "24/7 dəstək",
+            "desc": "Canlı əlaqə/mesaj"
+        }
+    ],
+    "latest_news": {
+        "head": "Son Bloqlar",
+        "btnTxt": "Bütün Bloqlar"
+    },
+    "privacy_policy": {
+        "head": "MƏXFİLİK SİYASƏTİ",
+        "location": "Bakı şəh. 15 Yanvar 2023-cü il.",
+        "desc": "Şəxsi məlumatlara tətbiq edilən bu məxfilik siyasəti (bundan sonra - məxfilik siyasəti) 'www.mybid.az' domenində yerləşən 'MyBid' onlayn-hərracının istifadəçisi tərəfindən onlayn-hərracın saytından, proqramlarından və məhsullarından istifadə zamanı istifadəçi haqqında əldə etdiyi bütün məlumatlara şamil edilir.",
+        "data": [
+            {
+                "id": 1,
+                "head": "TERMİNLƏRİN MÜƏYYƏN EDİLMƏSİ",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "1.1. Məxfilik siyasətindəki terminlər aşağıdakı mənanı kəsb edir:"
+                    },
+                    {
+                        "id": 2,
+                        "info": "1.1.1. “Onlayn-hərrac saytının rəhbərliyi” (bundan sonra – saytın rəhbərliyi) – saytın idarəsinə səlahiyyəti olan, 'MyBid' adından fəaliyyət göstərən, şəxsi məlumatları təşkil və ya emal edən, həmçinin şəxsi məlumatların emalının məqsədini, emal olunacaq şəxsi məlumatların tərkibini, şəxsi məlumatlarla görüləcək əməliyyatları müəyyən edən işçilərdir."
+                    },
+                    {
+                        "id": 3,
+                        "info": "1.1.2. “Şəxsi məlumatlar” – müəyyən fiziki şəxsə (şəxsi məlumat subyektinə) birbaşa və ya bilavasitə aid olan istənilən informasiyadır."
+                    },
+                    {
+                        "id": 4,
+                        "info": "1.1.3. “Şəxsi məlumatların emalı” - şəxsi məlumatlarla avtomatlaşmış vasitələrlə və ya onlarsız yerinə yetirilən hər hansı şəxsi məlumatların toplanması, yazılması, sistemləşdirilməsi, yığılması, saxlanması, dəqiqləşdirilməsi (yenilənmə, dəyişmə), çıxarılması, istifadəsi, ötürülməsi (yayma, təqdim etmə, tanıtma), de-personallaşdırması, bloklaması, silməsi, məhv etməsi nəzərdə tutan istənilən əməliyyat və ya əməliyyatların cəmidir."
+                    },
+                    {
+                        "id": 5,
+                        "info": "1.1.4. “Şəxsi məlumatların məxfiliyi” – saytın rəhbərliyinə irəli sürülən əldə etmiş şəxsi məlumatların, bu məlumatların sahibinin razılığı və digər qanuni əsas olmadıqda, yayılmasına yol verməmək tələbinə mütləq əməl etməsidir."
+                    },
+                    {
+                        "id": 6,
+                        "info": "1.1.5. “Onlayn-hərrac saytının istifadəçisi (bundan sonra – istifadəçi)” – internet şəbəkəsi ilə onlayn-hərrac saytına girən və ondan istifadə edən şəxsdir."
+                    },
+                    {
+                        "id": 7,
+                        "info": "1.1.6. “Cookies” – veb-serverin göndərdiyi və istifadəçinin komputerində saxlandığı məlumatların kiçik fraqmentidir. Hər dəfə müvafiq saytın səhifəsini açmağa cəhd edəndə, veb-brauzer və ya veb-müştəri həmin fraqmenti veb-serverə HTML-sorğuda göndərir. "
+                    },
+                    {
+                        "id": 8,
+                        "info": "1.1.7. “IP-ünvan” – İP protokolu ilə düzənlənmiş komputer şəbəkəsində qovşağın unikal şəbəkə ünvanıdır."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "head": "ÜMUMİ MÜDDƏALAR",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "2.1. İstifadəçinin onlayn-hərrac saytından istifadə etməklə onun bu məxfilik siyasəti və istifadəçinin şəxsi məlumatlarının emalı şərtləri ilə razı olduğunu bildirir."
+                    },
+                    {
+                        "id": 2,
+                        "info": "2.2. Məxfilik siyasətinin şərtləri ilə razılaşmayan istifadəçi onlayn-hərrac saytından istifadəni dayandırmalıdır."
+                    },
+                    {
+                        "id": 3,
+                        "info": "2.3. Bu Məxfilik siyasəti yalnız  'MyBid' onlayn-hərrac saytına şamil edilir. Onlayn-hərrac öz saytındakı üçüncü şəxslərin saytına keçidlərə nəzarət etmir və onlara məsuliyyət daşımır."
+                    },
+                    {
+                        "id": 4,
+                        "info": "2.4. Saytın rəhbərliyi onlayn-hərrac saytının istifadəçisinin təqdim etdiyi şəxsi məlumatların düzgünlüyünü yoxlamır."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "head": "MƏXFİLİK SİYASƏTİNİN MÖVZUSU",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "3.1. Bu məxfilik siyasəti, istifadəçi onlayn-hərrac saytında saytın rəhbərliyinin sorğusuna əsasən və ya mal almaq məqsədi ilə sifariş edərkən təqdim etdiyi şəxsi məlumatların saytın rəhbərliyi tərəfindən məxfi saxlanmasına və qorunmasının təmin edilməsinə görə vəzifələrini müəyyən edir."
+                    },
+                    {
+                        "id": 2,
+                        "info": "3.2. Bu məxfilik siyasəti çərçivəsində emala icazə verilmiş şəxsi məlumatlar istifadəçi tərəfindən onlayn-hərrac saytında qeydiyyat forması doldurularkən verilir və aşağıdakılardan ibarətdir:"
+                    },
+                    {
+                        "id": 3,
+                        "info": "3.2.1. İstifadəçinin soyadı, adı, atasının adı;"
+                    },
+                    {
+                        "id": 4,
+                        "info": "3.2.2. İstifadəçinin əlaqə nömrəsi;"
+                    },
+                    {
+                        "id": 5,
+                        "info": "3.2.3. Elektron poçt ünvanı (e-mail);"
+                    },
+                    {
+                        "id": 6,
+                        "info": "3.2.4. Malın çatdırılma ünvanı;"
+                    },
+                    {
+                        "id": 7,
+                        "info": "3.2.5. İstifadəçinin yaşadığı yer."
+                    },
+                    {
+                        "id": 8,
+                        "info": "3.3. Onlayn-hərrac reklam bloklarının baxışı prosesində və sistemin statistik skripti olan səhifələrə keçidlər zamanı avtomatik olaraq ötürülən verilənləri müdafiə edir: ·IP ünvanı; ·cookies-dən informasiyanı; ·brauzer haqqında informasiyanı (və ya reklamı göstərən digər proqramı);  ·giriş vaxtını; ·reklam blokun yerləşdiyi səhifənin ünvanını; ·refereri (əvvəlki səhifənin ünvanını);"
+                    },
+                    {
+                        "id": 9,
+                        "info": "3.3.1. cookies-in de-aktivləşdirilməsi şəxsi tanımanı tələb edən onlayn-hərrac saytının bölmələrinə girişi mümkünsüz edə bilər. "
+                    },
+                    {
+                        "id": 10,
+                        "info": "3.3.2. Onlayn-hərrac ziyarətçilərin İP-ünvanları haqqında statistik məlumatı toplayır. Bu məlumat texniki problemlərin aradan qaldırılmasında, maliyyə ödənişlərinin qanuniliyinə nəzarətdə istifadə edilir."
+                    },
+                    {
+                        "id": 11,
+                        "info": "3.4. Yuxarıda göstəriləndən əlavə istənilən şəxsi məlumat (alış-verişin tarixi, istifadə edilən brauzerlər, əməliyyat sistemləri və s.) etibarlı şəkildə məxfi qorunub saxlanır (bu məxfilik siyasətinin 5.2 və 5.3 bəndlərində göstərilmiş hallar istisna olmaqla). "
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "head": "ISTİFADƏÇİNİN ŞƏXSİ MƏLUMATLARININ TOPLANMASINDA MƏQSƏD",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "4.1. Onlayn-hərrac saytının rəhbərliyi istifadəçinin şəxsi məlumatlarını aşağıdakı məqsədlər üçün istifadə edir:"
+                    },
+                    {
+                        "id": 2,
+                        "info": "4.1.1. Onlayn-hərrac saytında qeydiyyatdan keçmiş istifadəçinin identifikasıyası, sifarişinin qəbul etməsi və ya malların alqı-satqı müqaviləsinin bağlanması üçün;"
+                    },
+                    {
+                        "id": 3,
+                        "info": "4.1.2. Onlayn-hərrac saytının resurslarına istifadəçinin girişi üçün;"
+                    },
+                    {
+                        "id": 4,
+                        "info": "4.1.3. İstifadəçi ilə əks-əlaqənin yaradılması üçün, həmçinin onlayn-hərrac saytı ilə bağlı məlumat, sorğu, xidmətlərin göstərilməsi (istifadəçinin sorğularının və sifarişlərinin emalı daxil olmaqla);"
+                    },
+                    {
+                        "id": 5,
+                        "info": "4.1.4. Təhlükəsizliyin təmin edilməsi və dələduzluğun qarşısının alınması məqsədilə İstifadəçinin olduğu yeri müəyyən etmək üçün;"
+                    },
+                    {
+                        "id": 6,
+                        "info": "4.1.6. İstifadəçi hesab nömrəsi yaratmasına icazə verdiyi halda, alış-veriş üçün uçot qeydinin (account) yaradılması üçün;"
+                    },
+                    {
+                        "id": 7,
+                        "info": "4.1.7. Onlayn-hərrac saytının istifadəçisini sifarişlərin vəziyyəti haqqında məlumatlandırmaq üçün; "
+                    },
+                    {
+                        "id": 8,
+                        "info": "4.1.8. Ödənişlərin alınması və emalı, vergilərin və ya vergi güzəştlərinin təsdiqi, ödənişə etiraz, istifadəçinin kredit hüququnun müəyyən edilməsi üçün;"
+                    },
+                    {
+                        "id": 9,
+                        "info": "4.1.9. Onlayn-hərrac saytının istifadəsində yaranmış çətinliklərə görə istifadəçiyə səmərəli müştəri və texniki dəstək göstərməsi üçün;"
+                    },
+                    {
+                        "id": 10,
+                        "info": "4.1.10. İstifadəçinin razılığı ilə məhsulun yenilənməsi, xüsusi təkliflərin verilməsi, qiymətlər haqqında məlumat, yeniliklərin göndərilməsi və onlayn-hərrac və ya onun tərəfdaşları tərəfindən göndərilən digər məlumatlar üçün;"
+                    },
+                    {
+                        "id": 11,
+                        "info": "4.1.11. İstifadəçinin razılığı ilə reklam fəaliyyətinin yerinə yetirilməsi üçün;"
+                    },
+                    {
+                        "id": 12,
+                        "info": "4.1.12. İstifadəçinin onlayn-hərracının tərəfdaşlarının saytlarına və servislərinə giriş imkanı və onların məhsulunun, xidmətlərinin və yeniliklərinin əldə edilməsi üçün."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "head": "ŞƏXSİ MƏLUMATLARIN EMAL ÜSULLARI VƏ MÜDDƏTİ",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "5.1. Istifadəçinin şəxsi məlumatlarının emalı qanuni yolla müddətsiz yerinə yetirilir;"
+                    },
+                    {
+                        "id": 2,
+                        "info": "5.2. İstifadəçi razılaşır ki, saytın rəhbərliyinin, istifadəçinin sifarişlərini yerinə yetirilmək və malın çatdırılmasını təmin etmək məqsədi ilə, şəxsi məlumatları üçüncü şəxslərə (kuryer xidməti, poçt şəbəkəsi, rabitə operatorları) ötürmək haqqı var."
+                    },
+                    {
+                        "id": 3,
+                        "info": "5.3. İstifadəçinin şəxsi məlumatları Azərbaycan Respublikası qanunvericiliyinə əsasən səlahiyyətli dövlət orqanlarına ötürülə bilər."
+                    },
+                    {
+                        "id": 4,
+                        "info": "5.4. Istifadəçinin şəxsi məlumatları itirilən və ya açıqlanan zaman saytın rəhbərliyi bu haqda istifadəçiyə məlumat verir."
+                    },
+                    {
+                        "id": 5,
+                        "info": "5.5. Saytın rəhbərliyi istifadəçinin şəxsi məlumatlarının emalında qeyri-qanuni açıqlanmasının, təsadüfi məhvinin, dəyişdirilməsinin, bloklanmasının, təkrarlanmasının, yayılmasının və üçüncü şəxslərin digər qeyri-qanuni hərəkətlərinin qarşısının alınması üçün müəyyən zəruri təşkilati və texniki müdafiə tədbirləri görür."
+                    },
+                    {
+                        "id": 6,
+                        "info": "5.6. Saytın rəhbərliyi istifadəçi ilə birlikdə istifadəçinin şəxsi məlumatlarının itməsi və ya açıqlanması ilə bağlı ziyanın və digər mənfi təsirlərin qarşısını almaq üçün zəruri tədbirlər görür."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "head": "TƏRƏFLƏRİN ÖHDƏLİKLƏRİ",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "6.1. İstifadəçinin öhdəlikləri:"
+                    },
+                    {
+                        "id": 2,
+                        "info": "6.1.1. Onlayn-hərrac saytından istifadə etmək üçün tələb olunan şəxsi məlumatları vermək;"
+                    },
+                    {
+                        "id": 3,
+                        "info": "6.1.2. Həmin məlumat dəyişdiyi halda, onu yeniləmək, əlavələr etmək. "
+                    },
+                    {
+                        "id": 4,
+                        "info": "6.2. Saytın rəhbərliyinin öhdəlikləri:"
+                    },
+                    {
+                        "id": 5,
+                        "info": "6.2.1. Əldə etdiyi məlumatları yalnız məxfilik siyasətinin 4-cü bəndində göstərilmiş məqsədlər üçün istifadə etmək;"
+                    },
+                    {
+                        "id": 6,
+                        "info": "6.2.2. Məxfi məlumatların gizliliyini qorumaq, istifadəçinin yazılı razılığı olmadan onları açıqlamamaq, istifadəçinin şəxsi məlumatlarını satmamaq, dəyişdirməmək, dərc etməmək, digər üsullarla yaymamaq (məxfilik siyasətinin 5.2 və 5.3 bəndləri istisna olmaqla);"
+                    },
+                    {
+                        "id": 7,
+                        "info": "6.2.3. İstifadəçinin şəxsi məlumatlarının məxfiliyini təmin etmək üçün mövcud qaydalara əsasən mümkün tədbirlər görmək."
+                    },
+                    {
+                        "id": 8,
+                        "info": "6.2.4. Şəxsi məlumatların düzgün olmadığı və ya qeyri-hüquqi hərəkətlər səbəbindən istifadəçinin şəxsi məlumatlarının səlahiyyətli orqanlar tərəfindən yoxlandığı dövrdə və ya istifadəçinin özünün və ya nümayəndəsinin müraciətinə əsasən şəxsi məlumatı bloklamaq."
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "head": "TƏRƏFLƏRİN MƏSULİYYƏTİ",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "7.1. Öz vəzifələrini yerinə yetirməyən saytın rəhbərliyi istifadəçinin şəxsi məlumatlarının qeyri-qanuni istifadəsinə görə Azərbaycan Respublikası qanunvericiliyinə əsasən (bu məxfilik siyasətinin 5.2 və 5.3 və 7.2 bəndləri istisna olmaqla) istifadəçiyə dəymiş ziyana görə məsuliyyət daşıyır."
+                    },
+                    {
+                        "id": 2,
+                        "info": "7.2. Məxfi şəxsi məlumatların itirilməsi və ya açıqlanması halında sayt rəhbərliyi aşağıdakı hallarda məsuliyyət daşımır:"
+                    },
+                    {
+                        "id": 3,
+                        "info": "7.2.1. Əgər məxfi şəxsi məlumat onun itirilməsindən və ya açıqlanmasından əvvəl ictimaiyyətə məlum olubsa;"
+                    },
+                    {
+                        "id": 4,
+                        "info": "7.2.2. Əgər məxfi şəxsi məlumat saytın rəhbərliyinə verilməzdən əvvəl üçüncü şəxslər tərəfindən əldə edilmişdirsə; "
+                    },
+                    {
+                        "id": 5,
+                        "info": "7.2.3. Əgər məxfi şəxsi məlumat istifadəçinin razılığı ilə açıqlanmışdırsa."
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "head": "MÜBAHİSƏLƏRİN HƏLLİ",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "8.1. Onlayn-hərrac saytının istifadəçi ilə saytın rəhbərliyi arasında mübahisələrlə əlaqəli şikayətlə məhkəməyə müraciət etməzdən əvvəl mübahisənin qarşılıqlı anlaşma yolu ilə həlli üçün yazılı təklifin təqdim edilməsi zəruridir."
+                    },
+                    {
+                        "id": 2,
+                        "info": "8.2. Şikayəti alan, şikayət daxil olandan 30 təqvim günü ərzində şikayətçiyə yazılı şəkildə görülmüş tədbirlər haqqında məlumat verməlidir."
+                    },
+                    {
+                        "id": 3,
+                        "info": "8.3. Razılığa gəlinmədiyi halda, Azərbaycan Respublikası qanunvericiliyinə əsasən mübahisə məhkəmə yolu ilə həll oluna bilər."
+                    },
+                    {
+                        "id": 4,
+                        "info": "8.4. Bu Məxfilik siyasətinə və istifadəçi ilə sayt rəhbərliyi arasında münasibətlərin tənzimlənməsinə Azərbaycan Respublikasının qüvvədə olan qanunvericiliyi şamil edilir."
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "head": "ƏLAVƏ ŞƏRTLƏR",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "9.1. Sayt Rəhbərliyi bu məxfilik siyasətinə istifadəçinin razılığı olmadan dəyişikliklərin edilməsi hüququna malikdir."
+                    },
+                    {
+                        "id": 2,
+                        "info": "9.2. Yeni məxfilik siyasəti onun onlayn-hərracının saytında yerləşdirilməsi anından qüvvəyə minir (əgər başqa şərt yeni redaksiyada nəzərdə tutulmayıbsa)."
+                    },
+                    {
+                        "id": 3,
+                        "info": "9.3. Bu Məxfilik siyasəti ilə əlaqəli bütün təkliflər və suallar ilə bağlı info@mybid.az ünvanına müraciət edilməlidir.     "
+                    },
+                    {
+                        "id": 4,
+                        "info": "9.4. Qüvvədə olan məxfilik siyasəti onlayn-hərracnın https://mybid.az/privacy səhifəsində yerləşdirilmişdir."
+                    }
+                ]
+            }
+        ]
+    },
+    "terms_conditions": {
+        "head": "Qaydalar və Şərtlər",
+        "contents": [
+            "-Mybid.az website online e - commerce platformasıdır, qaydalar və şərtlər bölməsində Mybid kimi qeyd olunacaq",
+            "-Mybid E-commerce platformasında hərracları keçirilən məhsullara lot deyilir.",
+            "-Hərraclar Mybid tərəfindən keçirilir.",
+            "-Hərracda lotların qoşulma haqqı Mybid tərəfindən təyin olunur",
+            "-Lotların (məhsul) başlama və bitmə tarixi Mybid tərəfindən təyin edilir.",
+            "-Lotların şərtləri hərrac başlamazdan öncə Mybid səhifəsində iştirakçılara müsabiqənin detalları o cümlədən məhsul barəsində ətraflı məlumatlar qeyd olunacaq və iştirakçılara bildiriləcək.",
+            "-Mybid.az saytına abunə olmuş şəxs istənilən lota iştirak haqqını ödəyərək qoşula bilər.(məhdudiyyət yoxdu)",
+            "- Mybid.az saytında bütün ödənişlər nağdsız qaydada həyata keçirilir.",
+            "-Mybid.az saytında heç bir halda nağd odəniş etmək olmur.",
+            "-Lotlara qoşulma haqqı heç bir halda qaytarılmır.",
+            "-Lotlarda iştirak zamanı verilən təklif heç bir halda dəyişdirilmir.",
+            "-Hərrac bitdikdən sonra iştirakçının təklifi əsasında ödəniş etdikdən sonra qalib hesab olunur.",
+            "-Hərrac bitdikdən sonra iştirakçı təyin edilmiş vaxt ərzində ödəniş tapşırığı yerinə yetirməsə  uduzmuş hesab olunur və hərrac bitmiş sayılır.(bank tərəfindən qoyulan limitlər və digər hallar daxil)",
+            "-Hərrac bitdikdən sonra iştirakçı təyin edilmiş vaxt ərzində ödəniş tapşırığını etməsə və bu hal 3 dəfə təkrarlanarsa mybid.az tərəfindən şəxsin profili bloklanır, qoşulduğu hərraclarda habelə canlı hərraclara da qoşulubsa təklif etmək hüququndan məhrum edilir.(qoşulma haqqı qaytarılmır)",
+            "-Lotların başlama və bitmə tarixinin uzadılması istisna hallarda mümkündür.(qaydalar çərçivəsində, texiniki problemlər yaranarsa, fors-major hal baş verərsə)",
+            "-Lotun başlama və bitmə tarixi qeyd olduğu zaman 10 (on) iştirakçı və ya 5 (beş) təklif verən şəxs olmadığı təqdirdə ən geci 7 (yeddi) gün müddətinə qədər uzadıla bilər.",
+            "-Keçirilən hərracda lot baş tutmadıqda qoşulma haqqı iştirakçılara geri qaytarılaraq keçirilən lota imtina verilir.( bank tərəfindən 7 iş günü müddəti ərzində ödəniş etdikləri bank kartları hesablarına)",
+            "-Hərracın imtinası hərracın bitməsinə 6 (altı) saat qalmışa qədər qaydalar çərçivəsində imtina oluna bilər.",
+            "-Hərracda lotun qalibi olmuş şəxs hərracdan imtina edə bilməz və təklifi dəyişdirilməz olaraq qalır.",
+            "-Hərracın qalibi olmuş şəxs qazandığı məhsulu 7 gün müddətində, təklifinin 15 faizi komissiya tutulmaqla təhvil aldığı kimi (istifadə olunmamış) qaytara bilər.(qoşulma haqqı daxil deyil)",
+            "-Mybid.az platformasında hesab yaradılarkən",
+            "-Ad və soyad iştirakçının özünə məxsus olmalı",
+            "-E-mail və mobil nömrə aktiv olmalı",
+            "-Qeyd olunan şifrə isə gizli qalmalı əks halda Mybid cavabdehlik daşımır.",
+            "-Mybid.az saytında qaydalar və şərtlər bölməsi ilə razılaşıb təsdiqləyərək hesab yaradılır.",
+            "-Mybid.az platformasında kart məlumatlarını qeyd etmiş hər bir şəxs özü məsuliyyət daşıyır.",
+            "-Myid.az platfomasında şəxsi hesabına qeyd edilmiş kart barəsində şikayət daxil olarsa Mybid.az hesabı bloklanır.",
+            "-Mybid.az platformasında qaydalar və şərtlər bölməsini oxumayan ve biganə yanaşaraq    Mybid.az platformasının qaydalar və şərtlərini qəbul edən iştirakçılar məsuliyyətdən azad olmurlar.",
+            "-Mybid.az platformasında hesab yaradılarkən qeydiyyatdan keçmiş hər bir şəxs qaydalara və şərtlərə əməl etməlidir."
+        ]
+    },
+    "faq": {
+        "head": "Tez-tez soruşulan suallar",
+        "contents": [
+            {
+                "key": "1",
+                "label": "“Mybid.az” nədir?",
+                "children": "Mybid çox ödənişli multifunksional elektron ticarət platformasıdır."
+            },
+            {
+                "key": "2",
+                "label": "Hərracda necə iştirak etmək olar ?",
+                "children": "Mybid.az saytından qeydiyyatdan keçib kartların məlumatlarını əlavə edərək istənilən hərracda iştirak edə bilərsiniz. Qeyd;iştirak haqqı qaytarılmır, verdiyiniz təklif isə heç bir halda dəyişdirilmir."
+            },
+            {
+                "key": "3",
+                "label": "Hərrac necə keçirilir?",
+                "children": "Mybid.az da hərraclar online platformada (şəkildə) həyata keçirilir."
+            },
+            {
+                "key": "4",
+                "label": "Bir neçə sayda hərracda iştirak etmək olarmı?",
+                "children": "Bəli, keçirilən bütün hərraclarda iştirak etmək və təklif vermək hüququnuz var."
+            },
+            {
+                "key": "5",
+                "label": "Hərraclar nə vaxt başlayır?",
+                "children": "Hərracların başlama və bitmə vaxtı Mybid.az tərəfindən təyin olunur."
+            },
+            {
+                "key": "6",
+                "label": "Qalib necə müəyyən olunur?",
+                "children": "Hərracın bitmə tarixinə kimi ən çox təklif edən şəxs qalib hesab olunur."
+            },
+            {
+                "key": "7",
+                "label": "Hərracda iştirak zamanı pulum batırmı?",
+                "children": "Xeyr."
+            },
+            {
+                "key": "8",
+                "label": "Kart məlumatlarım və hesabım qorunur?",
+                "children": "Bəli, Eponint MMC və Payriff QSC tərəfindən kart məlumatları qorunur və tranzaksialar həyata keçirilir."
+            },
+            {
+                "key": "9",
+                "label": "Hansı vaxta kimi təklif verə bilərəm?",
+                "children": "Hərracın bitməsinə 1 dəqiqə qalmışa qədər təklif verə bilərsiniz."
+            },
+            {
+                "key": "10",
+                "label": "Nə zaman hərraca qoşula bilərəm?",
+                "children": "Hərracın bitməsinə 1 dəqiqə qalmışa kimi istənilən vaxt."
+            },
+            {
+                "key": "11",
+                "label": "Hərrac nədir?",
+                "children": "Bir mülkün, malın, əşyanın, əmtəənin ən çox pul verənə verilmək üzrə açıq satışa qoyulması, auksion, yəni açıq artırma üsulu ilə satılmasıdır."
+            }
+        ]
+    },
+    "email_confirm":{
+        "head":"Təbriklər!",
+        "content":"E-poçt ünvanınız uğurla təsdiqləndi. Bizi sosial mediada izləməklə yeniliklərdən dərhal xəbərdar olun.",
+        "back_btn_txt":"Geri gayıt",
+        "home_btn_txt":"Ana səhifəyə get"
+    },
+    "news_letter": {
+        "head": "Bülletenimizə abunə olun",
+        "overview":"Səhifəmizdəki yeniliklərdən xəbərdar olmaq üçün e mail ünvanınızı qeyd edin.",
+        "input_placeholder": "E-poçt ünvanı",
+        "btn_text": "Abunə ol"
+    },
+    "blog": {
+        "category_filter_head": "Kateqoriya",
+        "latest_blog_head": "Ən son Bloq",
+        "blog_search_placeholder": "Axtar...",
+        "no_blog_txt":"Hazırda heç bir blog yazısı yoxdur, lütfən, sonra yenidən yoxlayın."
+    },
+    "message": {
+        "head": "Kömək lazımdır?",
+        "desc": "Bizimlə söhbət etmək üçün birini seçin"
+    },
+    "auction": {
+        "auction_join_btn": "Qoşul",
+        "auction_offer_btn": "Təklif Ver",
+        "auction_detail": {
+            "start_date_txt": "Başlama tarixi",
+            "end_date_txt": "Bitmə tarixi",
+            "starting_price_txt": "Başlanğıc qiyməti",
+            "joining_fee": "Qoşulma haqqı",
+            "live_connection_fee": "Canlı qoşulma haqqı",
+            "minimum_bid_txt": "Minimum təklif",
+            "maximum_offer_txt": "Maksimum təklif",
+            "last_offer_txt": "Sonuncu təklif",
+            "secure_payment_txt": "100% təhlükəsiz ödəniş",
+            "participants_txt": "İştirakçılar",
+            "description_txt": "Təsviri",
+            "participants_columns": [
+                {
+                    "title": "Ad soyad",
+                    "dataIndex": "name",
+                    "key": "name"
+                },
+                {
+                    "title": "Təklif",
+                    "dataIndex": "offer",
+                    "key": "offer"
+                },
+                {
+                    "title": "Tarix",
+                    "dataIndex": "date",
+                    "key": "date"
+                }
+            ],
+            "auction_discount_txt":"Sərfəli"
+        },
+        "auction_winner_txt": "Qalib",
+        "pay_container": {
+            "head": "Ödəmə yolları",
+            "add_card_txt": "Kart əlavə et",
+            "one_time_payment": "Birdəfəlik ödəniş",
+            "no_card_txt": "Kart əlavə edilməyib.",
+            "switch_to_cards":"Kartlara keçin"
+        },
+        "auction_confirm_head": "Hərraca qoşulmaq istədiyinizə əminsinizmi?",
+        "auction_confirm_desc": "Qoşulma haqqı heç bir halda geri qaytarılmır.",
+        "auction_confirm_yes_btn": "Bəli",
+        "auction_confirm_no_btn": "Xeyr",
+        "auction_bid_warning": "Hərrac zamanı verilən təkliflər dəyişdirilmir.",
+        "day_txt": "gün",
+        "hour_txt": "saat",
+        "minute_txt": "dəqiqə",
+        "second_txt": "saniyə",
+        "auction_live_txt": "Canlı",
+        "auction_soon_txt": "Tezliklə",
+        "auction_sold_txt": "Satıldı",
+        "auction_free_txt":"Pulsuz"
+    },
+    "not_found":{
+        "head":"404, Səhifə tapılmadı",
+        "content":"Axtardığınız səhifənin adı dəyişdirilə, silinə və ya müvəqqəti olaraq istifadəsi məhtudlaşdırıla bilər. Əlavə məlumat üçün dəstək xəttinə yaza bilərsiniz."
+    },
+    "partners": {
+        "head":"Partnyorlarımız",
+        "desc":"Etibarlı və nüfuzlu tərəfdaşlarımız var"
+    },
+    "coming_soon_head":"Tezliklə",
+    "auction_archive_head": "Auksion Arxivi",
+    "auctions-text": "Auksionlar",
+    "mobile_search_head": "Hərracların axtarışı",
+    "mobile_search_overview": "Axtarmaq istədiyiniz sözü yazın və 'enter' düyməsini basın",
+    "live-text": "Canlı",
+    "soon-text": "Başlamayıb",
+    "end-text": "Bitib",
+    "start-date-text": "Başlama tarixi",
+    "end-date-text": "Bitmə tarixi",
+    "start-price-text": "Başlanğıc qiyməti",
+    "join-price-text": "Qoşulma haqqı",
+    "live-join-price-text": "Canlı qoşulma haqqı",
+    "last-bid-text": "Sonuncu təklif",
+    "join-users-text": "İştirakçılar",
+    "blogs-text": "Bloqlar",
+    "partners-text": "Partnyorlarımız",
+    "auction-archive-text": "Auksion arxivi",
+    "rules-text": "Şərtlər və Qaydalar",
+    "faq-text": "Tez-tez verilən suallar",
+    "about-us-text": "Haqqımızda",
+    "privacy-text": "Məxfilik siyasəti",
+    "footer-text": "Bütün hüquqlar qorunur.",
+    "footer-transition": "Keçidlər",
+    "footer-about": "Məlumat",
+    "footer-contact": "Əlaqə",
+    "logout-text": "Çıxış",
+    "mobile-profile-text": "Profil",
+    "mobile-order-text": "Sifarişlər",
+    "notifications-text": "Bildirişlər",
+    "phone-text": "Telefon",
+    "password-text": "Şifrə",
+    "dont-have-account-text": "Hesabın yoxdur?",
+    "forgot-password-text": "Şifrəni unutmusan?",
+    "register-text": "Qeydiyyat",
+    "register-name-text": "Ad Soyad",
+    "repeat-password-text": "Şifrəni təkrarlayın",
+    "email-text": "E-poçt",
+    "have-account": "Hesabım var",
+    "register-rules": "Şərtlər və qaydaları",
+    "register-agree-text": "oxudum və razıyam",
+    "reset-password-text": "Şifrə sıfırlanması",
+    "reset-send-btn": "Göndər",
+    "user-information-text": "İstifadəçi məlumatlarım",
+    "edit-btn": "Redaktə",
+    "wallet-text": "Kart məlumatlarım",
+    "wallet-add-card": " Kart əlavə et",
+    "password-editing": "Şifrə redaktəsi",
+    "old-password-text": "Köhnə Şifrə",
+    "new-password-text": "Yeni Şifrə",
+    "repeat-new-password-text": "Yeni Şifrənin Təkrarı",
+    "payments-text": "Ödənişlər",
+    "status-text": "Status",
+    "total-payment-text": "Ümumi ödəniş",
+    "payment-text": "Ödəniş",
+    "archive-text": "Arxiv",
+    "archive-photo": "Şəkil",
+    "archive-name": "Ad",
+    "archive-date": "Tarix",
+    "archive-price": "Qiymət",
+    "confirm-btn": "Təsdiqlə",
+    "notification-text": "Bildirişlər",
+    "notifications-empty-text": "Bildirişlər yoxdur",
+    "notification-joinauction": "Hərraca qoşul!",
+    "join-btn": "Qoşul",
+    "offer-btn": "Təklif",
+    "back-btn": "Geri",
+    "auction-offer-text": "Təklif vermək istədiyinizə əminsiniz mi? (Qoşulma haqqı geri qaytarılmır.)",
+    "error-text": "Xəta",
+    "popup-error-message": "Təklifiniz başlanğıc qiymətindən aşağı ola bilməz.",
+    "popup-offer-error": "Təklifiniz son verilən təklifdən çox olmalıdır.",
+    "day-text": "gün",
+    "hour-text": "saat",
+    "minute-text": "dəqiqə",
+    "second-text": "saniyə",
+    "onetime-payment-text": "Birdəfəlik ödəniş",
+    "payment-method-text": "Qoşulmaq üçün ödəniş metodu seçin",
+    "choose-product": "Bəyəndiyiniz məhsulu seçin",
+    "info-register": "Qeydiyyatdan keçin",
+    "pay-fee-text": "Qoşulma haqqını ödəyin",
+    "bid-win-text": "Təklif verin və qazanın!",
+    "page-notfound": "Səhifə tapılmadı!",
+    "page-notfound-text": "Axtardığınız səhifəni tapa bilmədik...",
+    "mainpage-text": "Ana səhifə",
+    "error-description": "Bütün xanaları doldurun.",
+    "success-text": "Uğurlu",
+    "info-changed": "Məlumatlar dəyişdirildi.",
+    "duedate-text": "Verilən ödəmə müddəti",
+    "error-detail-text": "Uğursuz ödəniş",
+    "success-detail-text": "Ödəniş uğurla tamamlandı.",
+    "error-occured": "Xəta baş verdi.",
+    "newpasswords-same": "Yeni şifrələr eyni olmalıdır.",
+    "password-changed": "Şifrə dəyişdirildi.",
+    "password-incorrect": "Köhnə şifrə doğru deyil.",
+    "attention-text": "Diqqət",
+    "login-successful": "Uğurlu giriş.",
+    "incorrect-user-password": "İstifadəçi adı və ya şifrəsi yalnışdır.",
+    "passwords-same": "Şifrələr eyni olmalıdır.",
+    "phone-email-use": "Telefon və ya e-poçt istifadə olunur.",
+    "registration-successful": "Uğurlu qeydiyyat.",
+    "confirmation-message": "Təsdiq linki e-poçtunuza göndərildi. Əgər gələnlər qutusunda görmürsünüzsə spam qutunuzu yoxlayın.",
+    "email-notverified": "E-poçtunuz təsdiqlənməyib. Müəyyən əməliyyatlar üçün e-poçtunuza təsdiqləməlisiniz.",
+    "noinfo-found": "Məlumat tapılmadı",
+    "want-tobid": "Təklif vermək istədiyinizə əminsiniz mi? (Qoşulma haqqı geri qaytarılmır.)",
+    "more": "Daha çox",
+    "less": "Daha az",
+    "incorrect-number": "Yanlış nömrə.",
+    "incorrect-code": "Yanlış kod",
+    "vertification-successful": "Uğurlu təsdiq.",
+    "must-wait-text": "Müəyyən vaxt gözləməlisiniz.",
+    "newcode-sent": "Yeni kod göndərildi.",
+    "phone-vertification": "Telefon təsdiqi",
+    "code-vertification": "Təsdiq kodu",
+    "enter-recieved-code": "Telefona gələn kodu daxil edin",
+    "send-again": "Yenidən göndər",
+    "follow-rules": "Təhlükəsizlik qaydalarına riayət edin!",
+    "nouser-found": "İstifadəçi tapılmadı",
+    "link-sent-phone": "Telefonunuza link göndərildi.",
+    "link-sent-email": "E-poçtunuza link göndərildi.",
+    "terms-accept": "Qeydiyyatdan keçmək üçün şərtlər və qaydalar qəbul olunmalıdır.",
+    "reset-btn": "Yenilə",
+    "email-verified": "E-poçt təsdiqləndi.",
+    "participate-auction": "E-poçtunuz uğurla təsdiqləndi. Auksionlarda iştirak edə bilərsiniz.",
+    "goto-auction-btn": "Hərraclara keçid",
+    "email-not-verified-text": "E-poçt təsdiqlənmədi!",
+    "new-confirmation-link": " E-poçt təsdiqi uğursuz oldu. Lütfən yeni təsdiq linki göndərin.",
+    "process-ongoing": "Proses davam edir.",
+    "checking-email-confirmation": "E-poçt təsdiqi yoxlanılır...",
+    "card-number": "Kart Nömrəsi",
+    "valid-text": "Etibarlıdır",
+    "expiry-text": "İstifadə müddəti",
+    "offer-text": "Təklif verildi.",
+    "auction-notstarted": "Hərrac hələ başlamayıb.",
+    "sameoffer-notrepeat": "Eyni təklif təkrarlana bilməz.",
+    "auction-ended": "Hərrac başa çatdı.",
+    "notjoined-auction": "Hərraca qoşulmamısınız.",
+    "successfully-logout": "Siz uğurla çıxış etdiniz.",
+    "confirmation-sentsuc": "Təsdiq uğurla göndərildi.",
+    "close-btn": "Bağla",
+    "soon": "Tezliklə",
+    "join-free": "Pulsuz",
+    "winner": "Qalib"
+}

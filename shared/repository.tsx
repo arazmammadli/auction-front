@@ -1,0 +1,3 @@
+export const seoDescription = 'Mybid – 2022 ci ilin yanvar ayından etibarən Azərbaycanda ilk onlayn hərrac platforması olaraq fəalliyətə başlayıb. Bizim Mybid olaraq əsas məqsədimiz ölkəmizdə hərrac mədəniyyətini təbliğ etməkdir.Prioritet olaraq qoşulan müştərilərin alterativ və münasib qiymətlər ilə məhsulları əldə etməsini təmin edirik.Platformamızda olan bütün məhsullar hərrac yolu ilə əldə edilir.Bütün məhsullar tamamilə birinci əl məhsullardır.'
+
+export const seoTitle = 'Mybid - E-commerce platforması'

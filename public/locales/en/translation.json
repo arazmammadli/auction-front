@@ -1,0 +1,1015 @@
+{
+    "help-btn": "Help",
+    "login-btn": "Login",
+    "header": {
+        "nav": [
+            {
+                "id": 1,
+                "head": "Home",
+                "path": "/"
+            },
+            {
+                "id": 2,
+                "head": "About",
+                "path": "/about"
+            },
+            {
+                "id": 3,
+                "head": "Archive",
+                "path": "/archive"
+            },
+            {
+                "id": 4,
+                "head": "Blog",
+                "path": "/blog"
+            },
+            {
+                "id": 5,
+                "head": "Faq",
+                "path": "/faq"
+            },
+            {
+                "id": 6,
+                "head": "Terms and Conditions",
+                "path": "/rules"
+            },
+            {
+                "id": 7,
+                "head": "Privacy Policy",
+                "path": "/privacy"
+            }
+        ],
+        "top_header": {
+            "menu": [
+                {
+                    "id": 1,
+                    "head": "Auction Shop",
+                    "path": "/auctionshop"
+                },
+                {
+                    "id": 2,
+                    "head": "Online Shop",
+                    "path": "/onlineshop"
+                },
+                {
+                    "id": 3,
+                    "head": "Marketplace",
+                    "path": "/marketplace"
+                },
+                {
+                    "id": 4,
+                    "head": "Public Shop",
+                    "path": "/publicshop"
+                },
+                {
+                    "id": 5,
+                    "head": "Sellers",
+                    "path": "/sellers"
+                }
+            ],
+            "right_text": "Follow us"
+        },
+        "input_placeholder": "Search for anything...",
+        "mobileMenu": [
+            {
+                "id": 1,
+                "head": "Home",
+                "path": "/"
+            },
+            {
+                "id": 2,
+                "head": "About",
+                "path": "/about"
+            },
+            {
+                "id": 3,
+                "head": "Archive",
+                "path": "/archive"
+            },
+            {
+                "id": 4,
+                "head": "Blog",
+                "path": "/blog"
+            },
+            {
+                "id": 5,
+                "head": "Faq",
+                "path": "/faq"
+            },
+            {
+                "id": 6,
+                "head": "Terms and Conditions",
+                "path": "/rules"
+            },
+            {
+                "id": 7,
+                "head": "Privacy Policy",
+                "path": "/privacy"
+            },
+            {
+                "id": 8,
+                "path": "/marketplace",
+                "head": "Marketplace"
+            },
+            {
+                "id": 9,
+                "path": "/auction-shop",
+                "head": "Auction Shop"
+            },
+            {
+                "id": 10,
+                "path": "/online-shop",
+                "head": "Online Shop"
+            },
+            {
+                "id": 11,
+                "path": "/public-shop",
+                "head": "Public Shop"
+            },
+            {
+                "id": 12,
+                "path": "/sellers",
+                "head": "Sellers"
+            }
+        ]
+    },
+    "footer": {
+        "contact": {
+            "mybid_llc": "MYBID LLC TIN",
+            "contact_text": "Contact",
+            "follow_us": "Follow us"
+        },
+        "footer_menu": [
+            {
+                "id": 1,
+                "head": "Transitions",
+                "contents": [
+                    {
+                        "id": 1,
+                        "head": "Home",
+                        "path": "/"
+                    },
+                    {
+                        "id": 2,
+                        "head": "Login",
+                        "path": "/sign-in"
+                    },
+                    {
+                        "id": 3,
+                        "head": "Contact",
+                        "path": "/contact"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "head": "Information",
+                "contents": [
+                    {
+                        "id": 1,
+                        "head": "Terms and Conditions",
+                        "path": "/rules"
+                    },
+                    {
+                        "id": 2,
+                        "head": "About",
+                        "path": "/about"
+                    },
+                    {
+                        "id": 3,
+                        "head": "Faq",
+                        "path": "/faq"
+                    },
+                    {
+                        "id": 4,
+                        "head": "Privacy Policy",
+                        "path": "/privacy"
+                    }
+                ]
+            }
+        ],
+        "app": {
+            "head": "Download Application"
+        },
+        "copyright": "© 2022 Mybid.az | All rights reserved.",
+        "right_text": "Product of Azerbaijan 🇦🇿"
+    },
+    "dashboard": {
+        "profileNavData": [
+            {
+                "id": 1,
+                "head": "Dashboard",
+                "path": "/user"
+            },
+            {
+                "id": 2,
+                "head": "Archive",
+                "path": "/user/archive"
+            },
+            {
+                "id": 3,
+                "head": "Orders",
+                "path": "/user/orders"
+            },
+            {
+                "id": 4,
+                "head": "Notifications",
+                "path": "/user/notifications"
+            },
+            {
+                "id": 5,
+                "head": "Cards & Address",
+                "path": "/user/cards"
+            },
+            {
+                "id": 6,
+                "head": "Setting",
+                "path": "/user/setting"
+            }
+        ],
+        "logout_text": "Log-out",
+        "email_verified": {
+            "sub_head": "Beta",
+            "desc": "Your email has not been verified. You need to confirm your email for certain transactions.",
+            "btn_text": "Send"
+        },
+        "order": {
+            "head": "Orders",
+            "columns": [
+                {
+                    "key": "1",
+                    "head": "Status"
+                },
+                {
+                    "key": "2",
+                    "head": "Total payment"
+                },
+                {
+                    "key": "3",
+                    "head": "Due date"
+                },
+                {
+                    "key": "4",
+                    "head": "Payment"
+                }
+            ],
+            "load_more_btn": "Load More"
+        },
+        "archive": {
+            "head": "Archive",
+            "columns": [
+                {
+                    "key": "1",
+                    "head": "Status"
+                },
+                {
+                    "key": "2",
+                    "head": "Image"
+                },
+                {
+                    "key": "3",
+                    "head": "Name"
+                },
+                {
+                    "key": "4",
+                    "head": "Buying"
+                },
+                {
+                    "key": "5",
+                    "head": "Selling"
+                }
+            ]
+        },
+        "notifications": {
+            "head": "Notifications",
+            "columns": [
+                {
+                    "key": "1",
+                    "head": "Content"
+                },
+                {
+                    "key": "2",
+                    "head": "Date"
+                },
+                {
+                    "key": "3",
+                    "head": "Status"
+                }
+            ],
+            "readed": "Readed",
+            "notReaded": "Not readed"
+        },
+        "settings": {
+            "account": {
+                "account_head": "ACCOUNT SETTING",
+                "display_name": "Display name",
+                "account_email": "Email",
+                "account_phone": "Phone Number",
+                "save_btn": "Save Changes"
+            },
+            "change_password": {
+                "change_password_head": "CHANGE PASSWORD",
+                "current_password": "Current Password",
+                "new_password": "New Password",
+                "new_password_placheholder": "6+ characters",
+                "confirm_password": "Confirm Password",
+                "btn_text": "Change Password"
+            }
+        },
+        "head": "Hello",
+        "info": "<p class='text-sm font-normal leading-5 text-[#475156]'>From your account dashboard. you can easily check & view your <span class='text-[#2DA5F3] font-medium'>Recent Orders</span>, manage your <span class='text-[#2DA5F3] font-medium'>Shipping and Billing Addresses</span> and edit your <span class='text-[#2DA5F3] font-medium'>Password</span> and <span class='text-[#2DA5F3] font-medium'>Account Details.</span></p>",
+        "account_info_head": "ACCOUNT INFO",
+        "account_info_btn": "Edit Account",
+        "account_info_email": "Email",
+        "account_info_phone": "Phone",
+        "payment_option": {
+            "payment_option_head": "Payment Option",
+            "add_payment_card": "Add Card",
+            "card_number_text": "Card Number",
+            "payment_confirm_btn": "Confirm",
+            "no_card_text": "No card added.",
+            "card_confirmed_status": "Confirmed",
+            "card_not_confirmed": "Not confirmed",
+            "card_delete_text": "Delete Card"
+        }
+    },
+    "about": {
+        "subhead": "WHO WE ARE",
+        "head": "MyBid - Azerbaijan's first online auction platform",
+        "description": "<p class='text-sm font-normal leading-6 text-[#475156]'>MYBID - from January 2022, the first multifunctional and e-commerce in Azerbaijan has started activity as a platform. The platform is multifunctional, combining many functions at the same time has obtained. Multifunctional online auction, online store, marketplace and social store includes. Users can make purchases by joining the platform, as well as through auctions they can get a product. At the same time, individual and legal business entities categorize their products they place accordingly. In parallel, auction existing products at any time can enter. The system operates as an electronic commerce (e-commerce). The one here all processes are part of an ecosystem. From the order to the payment of the selected product Every detail has been thought out virtually. All products in the auction belong to MYBID's special store. Each registered person can make as many bids for any product by paying the joining fee can The participant with the highest bid is selected as the winner. Payments are accepted without cash provided that honesty, speed and convenience are ensured. Our target is a number of companies, banks, cashback companies and charities is to unite their communities on a single platform. MYBID allows its customers to buy products at wholesale prices provides, at the same time earns them with chasback and bonus system. As MYBID, our main goal is to promote e-commerce in our country and the region is to promote online auction culture.</p>",
+        "teams": [
+            {
+                "id": 1,
+                "name": "Nofal Salahov",
+                "position": "Middle Backend Developer",
+                "img": "/assets/images/nofel.jpeg",
+                "linkedin": "drmadwill"
+            },
+            {
+                "id": 2,
+                "name": "Araz Mammadli",
+                "position": "Middle Frontend Developer",
+                "img": "/assets/images/araz.jpg",
+                "linkedin": "arazmemmedli"
+            }
+        ],
+        "our_team_head": "Our core team member"
+    },
+    "features": [
+        {
+            "id": 1,
+            "head": "Fasted Delivery",
+            "desc": "Delivery in 24/H"
+        },
+        {
+            "id": 2,
+            "head": "24 Hours Return",
+            "desc": "100% money-back guarantee"
+        },
+        {
+            "id": 3,
+            "head": "Secure Payment",
+            "desc": "Your money is safe"
+        },
+        {
+            "id": 4,
+            "head": "Support 24/7",
+            "desc": "Live contact/message"
+        }
+    ],
+    "latest_news": {
+        "head": "Latest News",
+        "btnTxt": "All Blogs"
+    },
+    "privacy_policy": {
+        "head": "PRIVACY POLICY",
+        "location": "Baku city January 15, 2023",
+        "desc": "This Privacy policy (hereinafter - privacy policy) applied to the personal information applies to all information obtained by the user of the Mybid online-auction available in the domain “www.mybid.az” during the use of the online-auction website, programs and products.",
+        "data": [
+            {
+                "id": 1,
+                "head": "DEFINITION OF TERMS",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "1.1. The terms in the privacy policy have the following meanings:"
+                    },
+                    {
+                        "id": 2,
+                        "info": "1.1.1. “Management of the online-auction site” (hereinafter – management of site) – are employees who are authorized to manage the site, act on behalf of mybid, organize or process personal information, and also determine the aim of personal information processing, the content of personal information to be processed, and operations to be performed through personal information."
+                    },
+                    {
+                        "id": 3,
+                        "info": "1.1.2. “Personal information” – is any information directly or indirectly belonged to a certain natural person (personal information subject)."
+                    },
+                    {
+                        "id": 4,
+                        "info": "1.1.3. “The processing of personal information” – is a set of any operation or operations related to the collection, recording, systematization, accumulation, storage, clarification (update, modification), extraction, usage, transfer (distribution, presentation, promotion), de-personalization, blockage, delete, destruction of personal information performed with or without automated means with personal information."
+                    },
+                    {
+                        "id": 5,
+                        "info": "1.1.4. “Privacy of personal information” – means to comply with the request to prevent the distribution of personal information that is submitted to the management of site, without the consent of the owner of this information and other legal grounds."
+                    },
+                    {
+                        "id": 6,
+                        "info": "1.1.5. “User of online-auction site (hereinafter – user)” –is a person who accesses and uses the online auction site through the Internet."
+                    },
+                    {
+                        "id": 7,
+                        "info": "1.1.6. “Cookies” – is a small fragment of information sent by the web server and stored on the user’s computer, every time a web browser or web client tries to open a page on the corresponding site, it sends that fragment to the web server in an HTML request."
+                    },
+                    {
+                        "id": 8,
+                        "info": "1.1.7. “IP-address” is a unique network address of computer network node organized by IP protocol."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "head": "GENERAL PROVISIONS",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "2.1. The user agrees to this privacy policy and the conditions of processing of the user’s personal information by using the online-auction site."
+                    },
+                    {
+                        "id": 2,
+                        "info": "2.2. The user who does not agree with the conditions of the privacy policy must stop using the online-auction site."
+                    },
+                    {
+                        "id": 3,
+                        "info": "2.3. This privacy policy is applied only mybid online-auction site. Online-auction does not control and is not responsible for links to Third party sites on its website."
+                    },
+                    {
+                        "id": 4,
+                        "info": "2.4. The management of site does not check the accurrency of personal information provided by user of online-auction site."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "head": "THE SUBJECT OF PRIVACY POLICY",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "3.1. This privacy policy determines the obligations of the management of site to ensure the confidentiality and protection of the personal information provided by the user at the request of the management of site or when placing an order for the purpose of purchasing goods on the online-auction website."
+                    },
+                    {
+                        "id": 2,
+                        "info": "3.2. Personal information authorized for processing within this privacy policy is issued by the user when filling out the registration form on the online-auction website and consists of the following:"
+                    },
+                    {
+                        "id": 3,
+                        "info": "3.2.1. User’s name, surname, patronymic:"
+                    },
+                    {
+                        "id": 4,
+                        "info": "3.2.2. User’s phone number:"
+                    },
+                    {
+                        "id": 5,
+                        "info": "3.2.3. E-mail address:"
+                    },
+                    {
+                        "id": 6,
+                        "info": "3.2.4. Delivery address of the goods;"
+                    },
+                    {
+                        "id": 7,
+                        "info": "3.2.5. User’s residence address:"
+                    },
+                    {
+                        "id": 8,
+                        "info": "3.3. Online-auction protects data which is transmitted automatically in the process of viewing advertisement blocks and during links to pages with a statistical script of the system: · IP address; · information from cookies; · information on browser (or other program displaying the advertisement); · access date; · address of page where the advertisement block is located; · referer (address of previous page);"
+                    },
+                    {
+                        "id": 9,
+                        "info": "3.3.1. Deactivation of cookies may make impossible to access to the sections of the online-auction site that require personal identification."
+                    },
+                    {
+                        "id": 10,
+                        "info": "3.3.2. Online-auction collects statistical information on IP address of visitors. This information is used in order to eliminate technical problems, to control the legality of financial payments."
+                    },
+                    {
+                        "id": 11,
+                        "info": "3.4. In addition to the above, any personal information (purchase history, browsers used, operating systems, etc.) is securely protected and kept confidential (except as defined in clauses No. 5.2 and 5.3 of this privacy policy)."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "head": "AIM OF COLLECTION OF USER’S PERSONAL INFORMATION",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "4.1. The management of online-auction site uses personal information of the user for following purposes:"
+                    },
+                    {
+                        "id": 2,
+                        "info": "4.1.1. For identification of the user who registered in online-auction site, receiving an order or concluding purchase agreement for goods;"
+                    },
+                    {
+                        "id": 3,
+                        "info": "4.1.2. For the user’s access to the resources of the online-auction site; "
+                    },
+                    {
+                        "id": 4,
+                        "info": "4.1.3. For creating the feedback with the user, as well as providing information, requests, services related to the online-auction site (including the processing of the user requests and orders)"
+                    },
+                    {
+                        "id": 5,
+                        "info": "4.1.4. For determination of the user’s location in order to ensure security and to prevent fraud;"
+                    },
+                    {
+                        "id": 6,
+                        "info": "4.1.6. For creating an account for shopping, if the user allows to create an account number;"
+                    },
+                    {
+                        "id": 7,
+                        "info": "4.1.7. For providing information the user of online-auction site on status of orders;"
+                    },
+                    {
+                        "id": 8,
+                        "info": "4.1.8. For receipt and processing of payments, approval of taxes or tax benefits, objection to payment, determination of the user's right to credit;"
+                    },
+                    {
+                        "id": 9,
+                        "info": "4.1.9. For providing efficient customer and technical support to the user due to difficulties related to usage of the online-auction site;"
+                    },
+                    {
+                        "id": 10,
+                        "info": "4.1.10. For information on product updates, special offers, prices, sending updates and other information sent by online-auction or its partners with the user’s consent;"
+                    },
+                    {
+                        "id": 11,
+                        "info": "4.1.11. For performing advertising activities in accordance with the consent of the user;"
+                    },
+                    {
+                        "id": 12,
+                        "info": "4.1.12. For getting user’s access to the sites and services of online-auction partners and information about their products, services and innovations."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "head": "THE PROCESSING METHODS AND DURATION OF PERSONAL INFORMATION",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "5.1. The processing of the user’s personal information is legally performed indefinitely;"
+                    },
+                    {
+                        "id": 2,
+                        "info": "5.2. The user agrees that the management of site has a right to transfer personal information to the third parties (courier service, postal network, communication operators) in order to fulfill orders of the user and to ensure the delivery of the goods."
+                    },
+                    {
+                        "id": 3,
+                        "info": "5.3. The personal information of the user may be transferred to the competent state authorities in accordance with legislation of the Republic of Azerbaijan."
+                    },
+                    {
+                        "id": 4,
+                        "info": "5.4. When the user’s personal information is lost or disclosed, the site management informs the user about this issue."
+                    },
+                    {
+                        "id": 5,
+                        "info": "5.5. During the processing of the user’s personal information, the management of site takes certain necessary organizational and technical protection measures in order to prevent illegal disclosure, accidental destruction, modification, blocking, duplication, distribution and other illegal actions of Third parties."
+                    },
+                    {
+                        "id": 6,
+                        "info": "5.6. The management of site together with the user takes necessary measures in order to prevent damage and other negative effects related to the loss or disclosure of the user’s personal information."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "head": "THE OBLIGATIONS OF THE PARTIES",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "6.1. The obligations of the user:"
+                    },
+                    {
+                        "id": 2,
+                        "info": "6.1.1. To provide personal information required to use the online-auction site; "
+                    },
+                    {
+                        "id": 3,
+                        "info": "6.1.2. To update it, make additions in the case of information changes."
+                    },
+                    {
+                        "id": 4,
+                        "info": "6.2. The obligations of management of site "
+                    },
+                    {
+                        "id": 5,
+                        "info": "6.2.1. To use the obtained information only for the purposes stipulated in clause No. 4 of the privacy policy; "
+                    },
+                    {
+                        "id": 6,
+                        "info": "6.2.2. To protect the confidentiality of private information, not to disclose it without the written consent of the user, not to sell, change, publish, or distribute the personal information of the user in other ways (except for clauses No. 5.2 and 5.3 of the privacy policy);"
+                    },
+                    {
+                        "id": 7,
+                        "info": "6.2.3. To take possible measures in accordance with the current rules in order to ensure the confidentiality of the user’s personal information."
+                    },
+                    {
+                        "id": 8,
+                        "info": "6.2.4. To block personal information when the personal information of the user is checked by the competent authorities due to incorrect personal information or illegal actions, or at the request of the user or his representative."
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "head": "THE RESPONSIBILITY OF THE PARTIES",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "7.1. The management of the site that does not fulfill its duties takes responsibility for the damage caused to the user in accordance with the legislation of the Republic of Azerbaijan (Except for clauses No. 5.2 and 5.3 and 7.2 of this privacy policy) due to the illegal use of the user’s personal information."
+                    },
+                    {
+                        "id": 2,
+                        "info": "7.2. The management is not responsible for the loss or disclosure of confidential personal information in the following cases:"
+                    },
+                    {
+                        "id": 3,
+                        "info": "7.2.1. If the confidential personal information became publicly known prior to its loss or disclosure; "
+                    },
+                    {
+                        "id": 4,
+                        "info": "7.2.2. If the confidential personal information was obtained by third parties before it was given to the management of site;"
+                    },
+                    {
+                        "id": 5,
+                        "info": "7.2.3. If confidential personal information is disclosed by consent of the user."
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "head": "SETTLEMENT OF DISPUTES",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "8.1. It is necessary to submit a written proposal for the settlement of the dispute through mutual understanding before applying to the court with a complaint concerned about disputes between the user of the online-auction site and the management of site."
+                    },
+                    {
+                        "id": 2,
+                        "info": "8.2. The recipient of the complaint has to inform the complainant in writing about the measures taken within 30 calendar days from the receipt of the complaint."
+                    },
+                    {
+                        "id": 3,
+                        "info": "8.3. Unless otherwise agreed, the dispute can be resolved through court in accordance with the legislation of the Republic of Azerbaijan."
+                    },
+                    {
+                        "id": 4,
+                        "info": "8.4. This privacy policy and the regulation of relations between the user and the management of site are governed by the legislation of the Republic of Azerbaijan."
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "head": "ADDITIONAL CONDITIONS",
+                "contents": [
+                    {
+                        "id": 1,
+                        "info": "9.1. The management of site is entitled to make changes to this privacy policy without the consent of the user."
+                    },
+                    {
+                        "id": 2,
+                        "info": "9.2. The new privacy policy is effective from the moment it is posted on the online-auction website. (unless otherwise defined in the new edition)"
+                    },
+                    {
+                        "id": 3,
+                        "info": "9.3. All suggestions and questions in connection with  this privacy policy should be addressed to info@mybid.az."
+                    },
+                    {
+                        "id": 4,
+                        "info": "9.4. The effective privacy policy is posted on the online auction page: https://mybid.az/privacy"
+                    }
+                ]
+            }
+        ]
+    },
+    "terms_conditions": {
+        "head": "Terms and Conditions",
+        "contents": [
+            "-Mybid.az website is online e - commerce platform and is mentioned as Mybid in the section of terms.",
+            "-Products that are auctioned on the Mybid E-commerce platform are called lots.",
+            "-The auctions are held by Mybid.",
+            "-In the auction the subscription fee for lots are set by Mybid.",
+            "-The start and end date of lots (products)are set by Mybid.",
+            "-Before the beginning of the auction, terms of the lots, the details of the competition as well as detailed information on the product will be recorded for the participants, and informed to the participants.",
+            "-A person who has registered on Mybid.az can join any lot by paying a participation fee (without restrictions).",
+            "-All payments on Mybid.az are made in non-cash.",
+            "-Cash payments cannot be made on the Mybid.az website under any circumstances.",
+            "-The subscription fee for lots is not refundable under any circumstances.",
+            "-The fee for the bets made is non-refundable.",
+            "-The participant is considered as the winner after making the payment on the basis of on the offer when the auction ends.",
+            "-After the end of the auction, if the participant does not fulfill the payment order within the specified time, the participant is deemed as a loser and the auction is considered finished. (including limits imposed by the bank and other cases)",
+            "-After the end of the auction, if the participant does not fulfill the payment order within the specified time, and if this happens 3 times, the account of this person will be blocked by Mybid.az, and if the participant has joined live auctions, he/she will be deprived of the right to bid. (the subscription fee is not refundable)",
+            "-Extension of the start and end dates of lots is possible in exceptional cases (within the rules of force majeure, if technical problems arise)",
+            "-Unless there are 10 (ten) participants or 5 (five) bidder when the lot start and end date is recorded, this lot can be extended up to 7 days at the latest.",
+            "-If the lot did not take place at the auction the subscription fee is refunded to the participant and lot is rejected. (to the bank card accounts paid by the bank within 7 working days)",
+            "-The rejection of the auction can be rejected within the condition and terms up to 6 (six) hours before the end of the auction.",
+            "-The person won the lot at the auction cannot refuse to participate, and the bid remains unchanged.",
+            "-the person who is winner of the auction can return the product he won within 7 days with a commission of 15 % of his bid (not including subscription fee), as he received it. (not been used)",
+            "-When creating an account on Mybid.az: ",
+            "-Name and surname shall belong to the participant",
+            "-E-mail and mobile phone number shall be active",
+            "-The set password shall be kept secret, otherwise Mybid.az is not responsible.",
+            "-The account shall be created on mybid.az by agreeing and confirming in accordance with the conditions and terms section.",
+            "-The person who included card data on Mybid.az platform shall be responsible for the data.",
+            "-The account on Mybid.az will be blocked if a complaint is received about the card specified in the personal account on Mybid.az platform",
+            "-The participants who do not read the conditions and terms section of the Mybid.az platform and accept the conditions and terms of the Mybid.az platform indifferently are not released from responsibility.",
+            "-When creating an account on Mybid.az each registered person shall comply with the conditions and terms."
+        ]
+    },
+    "faq": {
+        "head": "Frequently Asked Questions",
+        "contents": [
+            {
+                "key": "1",
+                "label": "What is “Mybid.az ”?",
+                "children": "Mybid is a multi-fee multi-functional e-commerce platform."
+            },
+            {
+                "key": "2",
+                "label": "How to participate in the auction? ",
+                "children": "Just register on Mybid.az and add your card details You can participate in any auction. Note: participation fee is non-refundable and your bid cannot be changed by any means."
+            },
+            {
+                "key": "3",
+                "label": "How is the auction conducted?",
+                "children": "Auctions on Mybid.az are conducted on the basis of an online platform (picture)."
+            },
+            {
+                "key": "4",
+                "label": "Is it possible to participate in multiple auctions?",
+                "children": "Yes, you may participate in all auctions and place bids."
+            },
+            {
+                "key": "5",
+                "label": "When do auctions start?",
+                "children": "The start and end of auctions are set by Mybid.az"
+            },
+            {
+                "key": "6",
+                "label": "How is the winner determined?",
+                "children": "The winner is the one who made the biggest bid before the end of the auction. "
+            },
+            {
+                "key": "7",
+                "label": "Do I lose money when participating in an auction? ",
+                "children": "Certainly not."
+            },
+            {
+                "key": "8",
+                "label": "Are my card details and my account protected? ",
+                "children": "Yes, the card is protected and transactions are available with Eponint LLC and Payriff QSC."
+            },
+            {
+                "key": "9",
+                "label": "When can I place a Bid?",
+                "children": "You can place your bid up to 1 minute before the end of the auction."
+            },
+            {
+                "key": "10",
+                "label": "When can I join the auction?",
+                "children": "Anytime up to 1 minute before the end of the auction."
+            },
+            {
+                "key": "11",
+                "label": "What is an auction?",
+                "children": "Public sale of property, goods, things in favor of the most profitable purchaser, i.e. sale by auction is a method of openly increasing the price of a product."
+            }
+        ]
+    },
+    "email_confirm":{
+        "head":"Congratulations!",
+        "content":"Your email address has been successfully verified. Stay up-to-date with the latest news by following us on social media.",
+        "back_btn_txt":"Go Back",
+        "home_btn_txt":"Go To home"
+    },
+    "news_letter": {
+        "head": "Subscribe to our newsletter",
+        "overview":"Enter your e-mail address to receive updates on our page.",
+        "input_placeholder": "Email address",
+        "btn_text": "Subscribe"
+    },
+    "blog": {
+        "category_filter_head": "Category",
+        "latest_blog_head": "Latest Blog",
+        "blog_search_placeholder": "Search...",
+        "no_blog_txt":"There are currently no blog posts available, please check back later."
+    },
+    "message": {
+        "head": "Need Help?",
+        "desc": "Choose one to chat with us"
+    },
+    "auction": {
+        "auction_join_btn": "Join",
+        "auction_offer_btn": "Bid",
+        "auction_detail": {
+            "start_date_txt": "Start date",
+            "end_date_txt": "End date",
+            "starting_price_txt": "Start price",
+            "joining_fee": "Join fee",
+            "live_connection_fee": "Live join fee",
+            "minimum_bid_txt": "Minimum bid",
+            "maximum_offer_txt": "Maximum bid",
+            "last_offer_txt": "Last bid",
+            "secure_payment_txt": "100% secure payment",
+            "participants_txt": "Participants",
+            "description_txt": "Description",
+            "participants_columns": [
+                {
+                    "title": "Fullname",
+                    "dataIndex": "name",
+                    "key": "name"
+                },
+                {
+                    "title": "Offer",
+                    "dataIndex": "offer",
+                    "key": "offer"
+                },
+                {
+                    "title": "Date",
+                    "dataIndex": "date",
+                    "key": "date"
+                }
+            ],
+            "auction_discount_txt":"Discount"
+        },
+        "auction_winner_txt": "Winner",
+        "pay_container": {
+            "head": "Payment methods",
+            "add_card_txt": "Add card",
+            "one_time_payment": "One time payment",
+            "no_card_txt": "No card added.",
+            "switch_to_cards":"Go to cards"
+        },
+        "auction_confirm_head": "Are you sure you want to join the auction?",
+        "auction_confirm_desc": "The joining fee is non-refundable under any circumstances.",
+        "auction_bid_warning": "Bids made during the auction are not changed.",
+        "auction_confirm_yes_btn": "Yes",
+        "auction_confirm_no_btn": "No",
+        "day_txt": "day",
+        "hour_txt": "hour",
+        "minute_txt": "minute",
+        "second_txt": "second",
+        "auction_live_txt": "Live",
+        "auction_soon_txt": "Soon",
+        "auction_sold_txt": "Sold",
+        "auction_free_txt":"Free"
+    },
+    "not_found":{
+        "head":"404, Page not founds",
+        "content":"The page you are looking for may be renamed, deleted or temporarily restricted. You can write to the support line for more information."
+    },
+    "partners": {
+        "head":"Our Partners",
+        "desc":"We have reliable and reputable partners"
+    },
+    "coming_soon_head":"Coming Soon",
+    "auction_archive_head": "Auksion Archive",
+    "auctions-text": "Auctions",
+    "mobile_search_head": "Search for auctions.",
+    "mobile_search_overview": "Please type the word you want to search and press 'enter'",
+    "live-text": "Live",
+    "soon-text": "Soon",
+    "end-text": "Ended",
+    "start-date-text": "Start date",
+    "end-date-text": "End date",
+    "start-price-text": "Start price",
+    "join-price-text": "Join price",
+    "live-join-price-text": "Live join price",
+    "last-bid-text": "Last bid",
+    "join-users-text": "Participants",
+    "blogs-text": "Blogs",
+    "partners-text": "Partners",
+    "auction-archive-text": "Auction archive",
+    "rules-text": "Terms and Conditions",
+    "faq-text": "Frequently asked questions",
+    "about-us-text": "About us",
+    "privacy-text": "Privacy policy",
+    "footer-text": "All rights reserved.",
+    "footer-transition": "Transitions",
+    "footer-about": "Information",
+    "footer-contact": "Contact",
+    "logout-text": "Log out",
+    "mobile-profile-text": "Profile",
+    "mobile-order-text": "Orders",
+    "notifications-text": "Notifications",
+    "notifications-empty-text": "No notifications",
+    "phone-text": "Phone",
+    "password-text": "Password",
+    "dont-have-account-text": "Don't have an account?",
+    "forgot-password-text": "Forgot your password?",
+    "register-text": "Register",
+    "register-name-text": "Name Surname",
+    "repeat-password-text": "Repeat password",
+    "email-text": "Email",
+    "have-account": "I have an account",
+    "register-rules": "Terms and conditions",
+    "register-agree-text": "I have read and agree to the",
+    "reset-password-text": "Password reset",
+    "reset-send-btn": "Send",
+    "user-information-text": "My user information",
+    "edit-btn": "Edit",
+    "wallet-text": "My card details",
+    "wallet-add-card": "Add card",
+    "password-editing": "Password editing",
+    "old-password-text": "Old Password",
+    "new-password-text": "New Password",
+    "repeat-new-password-text": "Repeat New Password",
+    "payments-text": "Payments",
+    "status-text": "Status",
+    "total-payment-text": "Total payment",
+    "payment-text": "Payment",
+    "archive-text": "Archive",
+    "archive-photo": "Photo",
+    "archive-name": "Name",
+    "archive-date": "Date",
+    "archive-price": "Price",
+    "confirm-btn": "Confirm",
+    "notification-text": "Notifications",
+    "notification-joinauction": "Join the auction!",
+    "join-btn": "Join",
+    "offer-btn": "Offer",
+    "back-btn": "Back",
+    "auction-offer-text": "Are you sure you want to bid? (Participation fee is non-refundable.)",
+    "error-text": "Error",
+    "popup-error-message": "Your bid cannot be lower than the starting price.",
+    "popup-offer-error": "Your bid must be higher than the last bid.",
+    "day-text": "day",
+    "hour-text": "hour",
+    "minute-text": "minute",
+    "second-text": "second",
+    "onetime-payment-text": "One time payment",
+    "payment-method-text": "Choose a payment method to join",
+    "choose-product": "Choose the product you like",
+    "info-register": "Sign up",
+    "pay-fee-text": "Pay the joining fee",
+    "bid-win-text": "Bid and win!",
+    "page-notfound": "Page not found!",
+    "page-notfound-text": "We could not find the page you were looking for...",
+    "mainpage-text": "Main page",
+    "error-description": "Fill in all fields",
+    "success-text": "Successful",
+    "info-changed": "Information has been changed.",
+    "duedate-text": "Due date",
+    "error-detail-text": " Payment unsuccessful",
+    "success-detail-text": "Payment completed successfully.",
+    "error-occured": "An error occurred.",
+    "newpasswords-same": "The new passwords must be the same.",
+    "password-changed": "Password has been changed.",
+    "password-incorrect": "Old password incorrect",
+    "attention-text": "Attention",
+    "login-successful": "Login successful.",
+    "incorrect-user-password": "Incorrect username or password.",
+    "passwords-same": "Passwords must be the same.",
+    "phone-email-use": "Phone or email is already in use",
+    "registration-successful": "Registration successful",
+    "confirmation-message": "A confirmation link has been sent to your email. If you don't see it in your inbox, check your spam folder.",
+    "email-notverified": "Your email has not been verified. You need to confirm your email for certain transactions.",
+    "noinfo-found": "No information found",
+    "want-tobid": "Are you sure you want to bid? (The joining fee is non-refundable.)",
+    "more": "More",
+    "less": "Less",
+    "incorrect-number": "Incorrect phone number",
+    "incorrect-code": "Incorrect code",
+    "vertification-successful": "Vertification successful.",
+    "must-wait-text": "You must wait a certain time.",
+    "newcode-sent": "A new code has been sent.",
+    "phone-vertification": "Phone verification",
+    "code-vertification": "Verification code",
+    "enter-recieved-code": "Enter the code received on the phone",
+    "send-again": "Send again",
+    "follow-rules": "Follow the safety rules!",
+    "nouser-found": "User not found",
+    "link-sent-phone": "The link has been sent to your phone.",
+    "link-sent-email": "The link has been sent to your email.",
+    "terms-accept": "Terms and conditions must be accepted to register.",
+    "reset-btn": "Reset",
+    "email-verified": "Email has been verified.",
+    "participate-auction": "Your email has been successfully verified. You can participate in auctions.",
+    "goto-auction-btn": "Go to auctions",
+    "email-not-verified-text": "Email not verified!",
+    "new-confirmation-link": "Email verification failed. Please send a new confirmation link.",
+    "process-ongoing": "The process is ongoing.",
+    "checking-email-confirmation": "Checking email confirmation...",
+    "card-number": "Card Number",
+    "valid-text": "Valid",
+    "expiry-text": "Expiry",
+    "offer-text": "An offer was made.",
+    "auction-notstarted": "The auction has not yet started.",
+    "sameoffer-notrepeat": "The same offer cannot be repeated.",
+    "auction-ended": "Auction ended.",
+    "notjoined-auction": "You have not joined the auction.",
+    "successfully-logout": "You have successfully logged out.",
+    "confirmation-sentsuc": "Confirmation sent successfully.",
+    "close-btn": "Close",
+    "soon": "Soon",
+    "join-free": "Free",
+    "winner": "Winnner"
+}

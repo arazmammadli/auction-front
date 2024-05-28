@@ -1,0 +1,32 @@
+# Node modules
+node_modules
+
+# Build results
+.next
+dist
+out
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Miscellaneous
+.git
+.gitignore
+*.md
+Dockerfile
+.dockerignore
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+.nuxt
